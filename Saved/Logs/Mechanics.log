@@ -1499,3 +1499,780 @@ Continue: Skip saving this asset only.
 [2025.12.09-14.17.20:675][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1384.104004
 [2025.12.09-14.17.21:668][662]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.09-14.17.21:668][662]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1384.766357, Update Interval: 322.993256
+[2025.12.09-14.20.04:898][718]Cmd: EDIT COPY
+[2025.12.09-14.20.05:160][740]Cmd: EDIT PASTE
+[2025.12.09-14.20.10:938][193]Cmd: DELETE
+[2025.12.09-14.20.10:939][193]Cmd: ACTOR DELETE
+[2025.12.09-14.20.10:944][193]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.20.10:945][193]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.20.10:985][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.09-14.20.10:987][193]LogEditorActor: Deleted 2 Actors (0.048 secs)
+[2025.12.09-14.20.40:424][570]Cmd: EDIT COPY
+[2025.12.09-14.20.40:821][603]Cmd: EDIT PASTE
+[2025.12.09-14.22.38:443][659]Cmd: EDIT COPY
+[2025.12.09-14.22.38:443][659]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2025.12.09-14.22.38:695][673]Cmd: EDIT PASTE
+[2025.12.09-14.22.53:569][841]Cmd: EDIT COPY
+[2025.12.09-14.22.53:835][865]Cmd: EDIT PASTE
+[2025.12.09-14.22.58:486][224]Cmd: DELETE
+[2025.12.09-14.22.58:486][224]Cmd: ACTOR DELETE
+[2025.12.09-14.22.58:491][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.22.58:545][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.09-14.22.58:550][224]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2025.12.09-14.23.02:022][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1725.464722
+[2025.12.09-14.23.02:190][485]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-14.23.02:190][485]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1725.619629, Update Interval: 349.892273
+[2025.12.09-14.23.17:048][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-14.23.17:110][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-14.23.17:202][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.09-14.23.17:268][727]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-14.23.17:269][727]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap10E7E16744E47F3981685BB6E019FC66.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-14.23.17:387][727]LogFileHelpers: All files are already saved.
+[2025.12.09-14.23.17:387][727]LogFileHelpers: Saving map 'StartMap' took 0.278
+[2025.12.09-14.23.17:397][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 348.849 ms (total: 1:48 min)
+[2025.12.09-14.23.17:499][727]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-14.23.17:499][727]LogContentValidation: Enabled validators:
+[2025.12.09-14.23.17:530][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-14.23.17:530][727]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-14.23.17:530][727]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-14.23.17:530][727]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-14.23.17:530][727]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-14.23.17:530][727]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-14.23.17:544][727]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-14.23.17:612][727]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.09-14.24.10:378][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank
+[2025.12.09-14.24.10:378][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank
+[2025.12.09-14.24.10:378][611]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_39
+[2025.12.09-14.24.13:977][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.09-14.24.13:981][927]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2025.12.09-14.24.13:989][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank
+[2025.12.09-14.24.13:989][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank
+[2025.12.09-14.24.13:991][927]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_40
+[2025.12.09-14.24.19:914][375]Cmd: EDIT COPY
+[2025.12.09-14.24.20:125][390]Cmd: EDIT PASTE
+[2025.12.09-14.24.49:178][765]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_41.StaticMeshComponent0.
+[2025.12.09-14.24.50:953][917]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_41.StaticMeshComponent0.
+[2025.12.09-14.24.51:468][958]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_41.StaticMeshComponent0.
+[2025.12.09-14.25.02:303][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-14.25.02:396][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-14.25.02:487][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.09-14.25.02:551][839]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-14.25.02:552][839]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap1AC92A3F4CD301C39696B9A86B205374.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-14.25.02:580][839]LogFileHelpers: All files are already saved.
+[2025.12.09-14.25.02:580][839]LogFileHelpers: Saving map 'StartMap' took 0.183
+[2025.12.09-14.25.02:595][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 291.241 ms (total: 1:48 min)
+[2025.12.09-14.25.02:670][839]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-14.25.02:670][839]LogContentValidation: Enabled validators:
+[2025.12.09-14.25.02:670][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-14.25.02:670][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-14.25.02:670][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-14.25.02:670][839]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-14.25.02:670][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-14.25.02:670][839]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-14.25.02:670][839]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-14.25.12:200][602]Cmd: EDIT COPY
+[2025.12.09-14.25.12:392][617]Cmd: EDIT PASTE
+[2025.12.09-14.25.23:362][373]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_42.StaticMeshComponent0.
+[2025.12.09-14.25.23:608][393]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_42.StaticMeshComponent0.
+[2025.12.09-14.25.57:573][ 22]Cmd: EDIT COPY
+[2025.12.09-14.25.57:792][ 38]Cmd: EDIT PASTE
+[2025.12.09-14.26.04:211][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-14.26.04:270][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-14.26.04:352][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.09-14.26.04:446][558]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-14.26.04:447][558]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapE0E8E8344AA9C33BE1A6D68E3FD5B40C.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-14.26.04:490][558]LogFileHelpers: All files are already saved.
+[2025.12.09-14.26.04:490][558]LogFileHelpers: Saving map 'StartMap' took 0.220
+[2025.12.09-14.26.04:501][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 289.972 ms (total: 1:49 min)
+[2025.12.09-14.26.04:569][558]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-14.26.04:569][558]LogContentValidation: Enabled validators:
+[2025.12.09-14.26.04:569][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-14.26.04:569][558]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-14.26.04:569][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-14.26.04:569][558]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-14.26.04:569][558]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-14.26.04:569][558]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-14.26.04:569][558]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-14.26.48:275][111]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.12.09-14.27.38:552][344]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.12.09-14.28.49:128][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-14.28.49:173][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-14.28.49:270][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.09-14.28.49:337][929]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-14.28.49:338][929]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapFBA62E1A4CF53010053735BB7D5D5694.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-14.28.49:374][929]LogFileHelpers: All files are already saved.
+[2025.12.09-14.28.49:376][929]LogFileHelpers: Saving map 'StartMap' took 0.203
+[2025.12.09-14.28.49:410][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 282.083 ms (total: 1:49 min)
+[2025.12.09-14.28.49:471][929]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-14.28.49:471][929]LogContentValidation: Enabled validators:
+[2025.12.09-14.28.49:471][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-14.28.49:472][929]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-14.28.49:472][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-14.28.49:472][929]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-14.28.49:472][929]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-14.28.49:472][929]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-14.28.49:472][929]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-14.29.01:414][919]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.09-14.29.01:806][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.09-14.29.02:010][919]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.12.09-14.29.02:019][919]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.12.09-14.29.02:126][919]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.09-14.29.02:284][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157196s)
+[2025.12.09-14.29.02:284][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.222924s)
+[2025.12.09-14.29.02:305][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.09-14.29.02:327][919]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.09-14.29.02:404][919]LogPlayLevel: PIE: World Init took: (0.076251s)
+[2025.12.09-14.29.02:418][919]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.12.09-14.29.02:418][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.09-14.29.02:418][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.09-14.29.02:418][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.09-14.29.02:418][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.09-14.29.02:418][919]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.09-14.29.02:418][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.09-14.29.02:418][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.09-14.29.02:418][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.09-14.29.02:418][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.09-14.29.02:418][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.09-14.29.02:418][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.09-14.29.02:421][919]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.09-14.29.02:932][919]LogAudioMixer: Display: Using Audio Hardware Device Panasonic-TV (NVIDIA High Definition Audio)
+[2025.12.09-14.29.02:933][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.09-14.29.02:933][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.09-14.29.02:933][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.09-14.29.02:934][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.12.09-14.29.02:934][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.12.09-14.29.02:937][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.12.09-14.29.02:937][919]LogInit: FAudioDevice initialized with ID 2.
+[2025.12.09-14.29.02:937][919]LogAudio: Display: Audio Device (ID: 2) registered with world 'StartMap'.
+[2025.12.09-14.29.02:937][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.12.09-14.29.02:937][919]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.09-14.29.03:028][919]LogStreaming: Display: FlushAsyncLoading(331): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-14.29.07:896][919]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.09-14.29.07:935][919]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.09-14.29.07
+[2025.12.09-14.29.07:941][919]LogWorld: Bringing up level for play took: 0.014824
+[2025.12.09-14.29.07:953][919]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.12.09-14.29.08:487][919]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Meshes/Tank.Tank being ready before playing
+[2025.12.09-14.29.08:750][919]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.09-14.29.08:750][919]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.09-14.29.08:894][919]PIE: Server logged in
+[2025.12.09-14.29.08:923][919]PIE: Play in editor total start time 7.466 seconds.
+[2025.12.09-14.29.22:389][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-14.29.22:390][863]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.09-14.29.22:397][863]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-14.29.22:413][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-14.29.22:497][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.09-14.29.22:557][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-14.29.22:583][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-14.29.22:584][863]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.09-14.29.22:584][863]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.12.09-14.29.22:587][863]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.12.09-14.29.22:651][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.09-14.29.22:833][864]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.12.09-14.29.28:261][244]Cmd: DELETE
+[2025.12.09-14.29.28:261][244]Cmd: ACTOR DELETE
+[2025.12.09-14.29.28:267][244]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.29.28:299][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.09-14.29.28:301][244]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2025.12.09-14.29.48:056][739]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2131.509033
+[2025.12.09-14.29.48:224][753]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-14.29.48:224][753]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2131.668945, Update Interval: 356.876129
+[2025.12.09-14.29.51:243][965]Cmd: DELETE
+[2025.12.09-14.29.51:243][965]Cmd: ACTOR DELETE
+[2025.12.09-14.29.51:248][965]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.29.51:273][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.09-14.29.51:275][965]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.12.09-14.29.52:053][ 20]Cmd: EDIT COPY
+[2025.12.09-14.29.52:240][ 33]Cmd: EDIT PASTE
+[2025.12.09-14.29.54:329][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-14.29.54:401][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-14.29.54:503][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.09-14.29.54:591][190]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-14.29.54:592][190]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap9C464CBB4A6E556CCF8647B80E3B4ADD.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-14.29.54:640][190]LogFileHelpers: All files are already saved.
+[2025.12.09-14.29.54:640][190]LogFileHelpers: Saving map 'StartMap' took 0.239
+[2025.12.09-14.29.54:648][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 318.819 ms (total: 1:49 min)
+[2025.12.09-14.29.54:712][190]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-14.29.54:712][190]LogContentValidation: Enabled validators:
+[2025.12.09-14.29.54:712][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-14.29.54:712][190]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-14.29.54:712][190]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-14.29.54:712][190]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-14.29.54:712][190]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-14.29.54:712][190]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-14.29.54:712][190]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-14.30.15:520][843]Cmd: TRANSACTION UNDO
+[2025.12.09-14.30.15:532][843]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.09-14.30.16:259][861]Cmd: TRANSACTION UNDO
+[2025.12.09-14.30.16:260][861]LogEditorTransaction: Undo Move Elements
+[2025.12.09-14.30.16:845][901]Cmd: ACTOR SELECT ALL
+[2025.12.09-14.30.24:632][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.09-14.30.24:645][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.09-14.30.24:646][538]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.09-14.30.24:665][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019446s)
+[2025.12.09-14.30.24:665][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.019508s)
+[2025.12.09-14.30.24:692][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.12.09-14.30.24:694][538]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.09-14.30.24:726][538]LogPlayLevel: PIE: World Init took: (0.031697s)
+[2025.12.09-14.30.24:728][538]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.12.09-14.30.24:728][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.09-14.30.24:728][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.09-14.30.24:728][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.09-14.30.24:728][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.09-14.30.24:728][538]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.09-14.30.24:728][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.09-14.30.24:728][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.09-14.30.24:728][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.09-14.30.24:728][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.09-14.30.24:728][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.09-14.30.24:728][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.09-14.30.24:731][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.09-14.30.24:814][538]LogAudioMixer: Display: Using Audio Hardware Device Panasonic-TV (NVIDIA High Definition Audio)
+[2025.12.09-14.30.24:814][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.09-14.30.24:814][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.09-14.30.24:814][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.09-14.30.24:815][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.12.09-14.30.24:816][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.12.09-14.30.24:818][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.12.09-14.30.24:818][538]LogInit: FAudioDevice initialized with ID 3.
+[2025.12.09-14.30.24:818][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.12.09-14.30.24:818][538]LogAudio: Display: Audio Device (ID: 3) registered with world 'StartMap'.
+[2025.12.09-14.30.24:818][538]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.09-14.30.24:826][538]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.09-14.30.24:835][538]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.09-14.30.24
+[2025.12.09-14.30.24:835][538]LogWorld: Bringing up level for play took: 0.008735
+[2025.12.09-14.30.24:838][538]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.12.09-14.30.24:842][538]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.09-14.30.24:842][538]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.09-14.30.24:844][538]PIE: Server logged in
+[2025.12.09-14.30.24:846][538]PIE: Play in editor total start time 0.202 seconds.
+[2025.12.09-14.31.09:749][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-14.31.09:749][200]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.09-14.31.09:750][200]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-14.31.09:752][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-14.31.09:754][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.09-14.31.09:759][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-14.31.09:779][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.09-14.31.09:779][200]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.09-14.31.09:779][200]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.12.09-14.31.09:783][200]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.12.09-14.31.09:809][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-14.31.09:814][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.09-14.31.09:867][201]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.12.09-14.32.06:297][434]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (High Definition Audio Device), InstanceID=1
+[2025.12.09-14.32.06:297][434]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{355dccb7-789e-46c0-b2d1-09f960702989}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.09-14.32.06:448][434]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{355dccb7-789e-46c0-b2d1-09f960702989}]
+[2025.12.09-14.32.06:448][434]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.09-14.32.06:466][434]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.09-14.32.06:778][435]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.12.09-14.32.06:781][435]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{355dccb7-789e-46c0-b2d1-09f960702989}, Name=Headphones (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=210.03
+[2025.12.09-14.32.06:790][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.12.09-14.32.06:790][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.12.09-14.32.06:791][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.09-14.32.06:793][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.09-14.33.40:442][383]Cmd: EDIT COPY
+[2025.12.09-14.33.40:787][413]Cmd: EDIT PASTE
+[2025.12.09-14.34.01:617][ 63]Cmd: EDIT COPY
+[2025.12.09-14.34.01:847][ 82]Cmd: EDIT PASTE
+[2025.12.09-14.34.35:646][660]Cmd: EDIT COPY
+[2025.12.09-14.34.35:882][677]Cmd: EDIT PASTE
+[2025.12.09-14.34.35:883][677]LogWindows: Warning: OpenClipboard failed with error code 5
+[2025.12.09-14.34.35:884][677]LogWindows: Warning: OpenClipboard failed with error code 5
+[2025.12.09-14.34.39:768][949]Cmd: TRANSACTION UNDO
+[2025.12.09-14.34.39:768][949]LogEditorTransaction: Undo Move Elements
+[2025.12.09-14.34.40:530][971]Cmd: EDIT COPY
+[2025.12.09-14.34.40:763][989]Cmd: EDIT PASTE
+[2025.12.09-14.34.44:874][297]Cmd: EDIT COPY
+[2025.12.09-14.34.45:108][315]Cmd: EDIT PASTE
+[2025.12.09-14.34.51:712][813]Cmd: EDIT COPY
+[2025.12.09-14.34.51:969][836]Cmd: EDIT PASTE
+[2025.12.09-14.34.56:420][186]Cmd: DELETE
+[2025.12.09-14.34.56:420][186]Cmd: ACTOR DELETE
+[2025.12.09-14.34.56:425][186]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.34.56:427][186]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.34.56:459][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.12.09-14.34.56:462][186]LogEditorActor: Deleted 2 Actors (0.042 secs)
+[2025.12.09-14.34.59:306][353]LogStreaming: Display: FlushAsyncLoading(332): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-14.35.07:060][893]Cmd: EDIT COPY
+[2025.12.09-14.35.07:254][911]Cmd: EDIT PASTE
+[2025.12.09-14.35.23:113][ 46]Cmd: EDIT COPY
+[2025.12.09-14.35.23:336][ 52]Cmd: EDIT PASTE
+[2025.12.09-14.35.34:624][910]Cmd: DELETE
+[2025.12.09-14.35.34:624][910]Cmd: ACTOR DELETE
+[2025.12.09-14.35.34:629][910]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.35.34:659][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.12.09-14.35.34:662][910]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.12.09-14.35.35:206][937]Cmd: DELETE
+[2025.12.09-14.35.35:206][937]Cmd: ACTOR DELETE
+[2025.12.09-14.35.35:211][937]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.35.35:234][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.12.09-14.35.35:236][937]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.12.09-14.35.40:233][256]Cmd: EDIT COPY
+[2025.12.09-14.35.40:498][277]Cmd: EDIT PASTE
+[2025.12.09-14.35.45:619][628]Cmd: DELETE
+[2025.12.09-14.35.45:619][628]Cmd: ACTOR DELETE
+[2025.12.09-14.35.45:623][628]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.35.45:625][628]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.35.45:650][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.09-14.35.45:652][628]LogEditorActor: Deleted 2 Actors (0.034 secs)
+[2025.12.09-14.35.52:247][ 55]Cmd: EDIT COPY
+[2025.12.09-14.35.52:452][ 73]Cmd: EDIT PASTE
+[2025.12.09-14.36.02:442][784]Cmd: EDIT COPY
+[2025.12.09-14.36.02:639][799]Cmd: EDIT PASTE
+[2025.12.09-14.36.28:724][686]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2532.191650
+[2025.12.09-14.36.28:893][700]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-14.36.28:893][700]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2532.343994, Update Interval: 302.805267
+[2025.12.09-14.36.38:005][379]Cmd: EDIT COPY
+[2025.12.09-14.36.38:226][393]Cmd: EDIT PASTE
+[2025.12.09-14.36.46:919][ 54]Cmd: EDIT COPY
+[2025.12.09-14.36.48:586][175]Cmd: EDIT COPY
+[2025.12.09-14.36.48:870][196]Cmd: EDIT PASTE
+[2025.12.09-14.36.57:139][764]Cmd: EDIT COPY
+[2025.12.09-14.36.57:382][780]Cmd: EDIT PASTE
+[2025.12.09-14.37.00:622][ 28]Cmd: DELETE
+[2025.12.09-14.37.00:622][ 28]Cmd: ACTOR DELETE
+[2025.12.09-14.37.00:628][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.37.00:630][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.37.00:660][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.09-14.37.00:663][ 28]LogEditorActor: Deleted 2 Actors (0.041 secs)
+[2025.12.09-14.37.05:993][454]Cmd: EDIT COPY
+[2025.12.09-14.37.06:166][464]Cmd: EDIT PASTE
+[2025.12.09-14.37.10:411][755]Cmd: EDIT COPY
+[2025.12.09-14.37.10:616][769]Cmd: EDIT PASTE
+[2025.12.09-14.37.15:419][156]Cmd: TRANSACTION UNDO
+[2025.12.09-14.37.15:420][156]LogEditorTransaction: Undo Scale Elements
+[2025.12.09-14.37.29:897][315]Cmd: EDIT COPY
+[2025.12.09-14.37.30:153][329]Cmd: EDIT PASTE
+[2025.12.09-14.37.49:376][812]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.12.09-14.37.59:119][542]Cmd: EDIT COPY
+[2025.12.09-14.37.59:342][556]Cmd: EDIT PASTE
+[2025.12.09-14.38.01:161][692]Cmd: TRANSACTION UNDO
+[2025.12.09-14.38.01:161][692]LogEditorTransaction: Undo Move Elements
+[2025.12.09-14.38.01:635][698]Cmd: TRANSACTION UNDO
+[2025.12.09-14.38.01:635][698]LogEditorTransaction: Undo Paste
+[2025.12.09-14.38.08:326][ 50]Cmd: EDIT COPY
+[2025.12.09-14.38.08:567][ 62]Cmd: EDIT PASTE
+[2025.12.09-14.39.55:026][754]Cmd: EDIT COPY
+[2025.12.09-14.39.55:297][775]Cmd: EDIT PASTE
+[2025.12.09-14.39.58:908][984]Cmd: DELETE
+[2025.12.09-14.39.58:908][984]Cmd: ACTOR DELETE
+[2025.12.09-14.39.58:914][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.39.58:944][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.12.09-14.39.58:947][984]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.12.09-14.40.04:811][370]Cmd: TRANSACTION UNDO
+[2025.12.09-14.40.04:811][370]LogEditorTransaction: Undo Set Location
+[2025.12.09-14.40.25:976][945]Cmd: TRANSACTION UNDO
+[2025.12.09-14.40.25:976][945]LogEditorTransaction: Undo Move Elements
+[2025.12.09-14.40.59:481][206]LogStreaming: Display: FlushAsyncLoading(333): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-14.40.59:484][206]LogStaticMesh: Display: Building static mesh SM_Beam (Required Memory Estimate: 0.089521 MB)...
+[2025.12.09-14.40.59:716][212]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Beam.SM_Beam
+[2025.12.09-14.40.59:716][212]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Beam.SM_Beam
+[2025.12.09-14.40.59:716][212]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Beam.SM_Beam as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_176
+[2025.12.09-14.40.59:732][212]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/SciFi/SM_Beam) ...
+[2025.12.09-14.40.59:799][212]LogStaticMesh: Built static mesh [0.32s] /Game/Meshes/SciFi/SM_Beam.SM_Beam
+[2025.12.09-14.41.02:858][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.09-14.41.02:861][430]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.12.09-14.41.02:868][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Beam.SM_Beam
+[2025.12.09-14.41.02:868][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Beam.SM_Beam
+[2025.12.09-14.41.02:870][430]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Beam.SM_Beam as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_177
+[2025.12.09-14.41.58:463][183]LogStreaming: Display: FlushAsyncLoading(334): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-14.41.58:465][183]LogStaticMesh: Display: Building static mesh SM_Cables (Required Memory Estimate: 1.453097 MB)...
+[2025.12.09-14.41.58:475][183]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SciFi/SM_Cables.SM_Cables
+[2025.12.09-14.41.59:164][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables
+[2025.12.09-14.41.59:164][215]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables
+[2025.12.09-14.41.59:165][215]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_178
+[2025.12.09-14.41.59:930][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.09-14.41.59:933][259]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.12.09-14.41.59:946][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables
+[2025.12.09-14.41.59:946][259]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables
+[2025.12.09-14.41.59:948][259]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_179
+[2025.12.09-14.42.01:206][339]Cmd: DELETE
+[2025.12.09-14.42.01:206][339]Cmd: ACTOR DELETE
+[2025.12.09-14.42.01:213][339]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.42.01:238][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.09-14.42.01:241][339]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.12.09-14.42.16:007][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2879.471680
+[2025.12.09-14.42.16:178][133]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-14.42.16:178][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2879.623779, Update Interval: 346.876434
+[2025.12.09-14.42.29:161][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.09-14.42.29:239][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto3
+[2025.12.09-14.42.29:239][820]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap_Auto3DE0234AB465020A2BA026DBE5DFCF06C.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/Autosaves/Game/StartMap_Auto3.umap'
+[2025.12.09-14.42.29:242][820]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.108
+[2025.12.09-14.42.29:242][820]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.108
+[2025.12.09-14.46.35:546][590]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.09-14.46.39:676][860]Cmd: TRANSACTION UNDO
+[2025.12.09-14.46.39:676][860]LogEditorTransaction: Undo Edit Light Color
+[2025.12.09-14.46.39:926][863]Cmd: TRANSACTION UNDO
+[2025.12.09-14.46.39:926][863]LogEditorTransaction: Undo Clicking on Actors
+[2025.12.09-14.47.36:556][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables
+[2025.12.09-14.47.36:556][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables
+[2025.12.09-14.47.36:557][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_180
+[2025.12.09-14.47.37:448][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.09-14.47.37:452][377]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.12.09-14.47.37:461][377]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables
+[2025.12.09-14.47.37:461][377]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables
+[2025.12.09-14.47.37:463][377]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Cables.SM_Cables as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_181
+[2025.12.09-14.47.40:391][582]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_181.StaticMeshComponent0.
+[2025.12.09-14.47.40:732][609]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_181.StaticMeshComponent0.
+[2025.12.09-14.47.56:965][889]Cmd: EDIT COPY
+[2025.12.09-14.47.57:184][905]Cmd: EDIT PASTE
+[2025.12.09-14.48.11:898][986]Cmd: EDIT COPY
+[2025.12.09-14.48.12:109][991]Cmd: EDIT PASTE
+[2025.12.09-14.48.37:301][636]Cmd: TRANSACTION UNDO
+[2025.12.09-14.48.37:301][636]LogEditorTransaction: Undo Move Elements
+[2025.12.09-14.48.41:853][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_LightIndicator.SM_LightIndicator
+[2025.12.09-14.48.41:853][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_LightIndicator.SM_LightIndicator
+[2025.12.09-14.48.41:853][862]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_LightIndicator.SM_LightIndicator as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_184
+[2025.12.09-14.48.42:738][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.09-14.48.42:741][919]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.12.09-14.48.42:750][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_LightIndicator.SM_LightIndicator
+[2025.12.09-14.48.42:750][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_LightIndicator.SM_LightIndicator
+[2025.12.09-14.48.42:752][919]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_LightIndicator.SM_LightIndicator as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_185
+[2025.12.09-14.48.52:626][616]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3276.081543
+[2025.12.09-14.48.52:768][629]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-14.48.52:768][629]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3276.216309, Update Interval: 339.698486
+[2025.12.09-14.49.19:200][479]Cmd: EDIT COPY
+[2025.12.09-14.49.19:520][487]Cmd: EDIT PASTE
+[2025.12.09-14.50.05:764][183]Cmd: TRANSACTION UNDO
+[2025.12.09-14.50.05:764][183]LogEditorTransaction: Undo Move Elements
+[2025.12.09-14.50.10:944][453]Cmd: EDIT COPY
+[2025.12.09-14.50.16:204][807]Cmd: EDIT COPY
+[2025.12.09-14.50.16:449][814]Cmd: EDIT PASTE
+[2025.12.09-14.51.22:311][ 25]Cmd: EDIT COPY
+[2025.12.09-14.51.22:624][ 33]Cmd: EDIT PASTE
+[2025.12.09-14.51.35:591][851]Cmd: DELETE
+[2025.12.09-14.51.35:591][851]Cmd: ACTOR DELETE
+[2025.12.09-14.51.35:597][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.51.35:598][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.51.35:599][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.51.35:600][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.51.35:600][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.51.35:601][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.51.35:602][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.51.35:603][851]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.51.35:627][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.12.09-14.51.35:629][851]LogEditorActor: Deleted 8 Actors (0.038 secs)
+[2025.12.09-14.52.20:935][801]LogStreaming: Display: FlushAsyncLoading(335): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-14.52.20:947][801]LogStaticMesh: Display: Building static mesh SM_Road (Required Memory Estimate: 0.07352 MB)...
+[2025.12.09-14.52.20:955][801]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/SciFi/SM_Road.SM_Road
+[2025.12.09-14.52.21:181][803]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Road.SM_Road
+[2025.12.09-14.52.21:182][803]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Road.SM_Road
+[2025.12.09-14.52.21:182][803]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Road.SM_Road as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_197
+[2025.12.09-14.52.21:833][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.09-14.52.21:837][840]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.12.09-14.52.21:847][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Road.SM_Road
+[2025.12.09-14.52.21:848][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Road.SM_Road
+[2025.12.09-14.52.21:851][840]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Road.SM_Road as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_198
+[2025.12.09-14.52.26:367][128]Cmd: DELETE
+[2025.12.09-14.52.26:367][128]Cmd: ACTOR DELETE
+[2025.12.09-14.52.26:374][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.52.26:400][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.09-14.52.26:401][128]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.12.09-14.52.54:560][942]LogStreaming: Display: FlushAsyncLoading(336): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-14.52.54:572][942]LogStaticMesh: Display: Building static mesh SM_Girder (Required Memory Estimate: 1.271771 MB)...
+[2025.12.09-14.52.54:608][942]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/SciFi/SM_Girder.SM_Girder
+[2025.12.09-14.52.54:739][944]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Girder.SM_Girder
+[2025.12.09-14.52.54:740][944]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Girder.SM_Girder
+[2025.12.09-14.52.54:740][944]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Girder.SM_Girder as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_199
+[2025.12.09-14.52.55:640][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.09-14.52.55:645][  4]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.12.09-14.52.55:653][  4]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Girder.SM_Girder
+[2025.12.09-14.52.55:653][  4]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Girder.SM_Girder
+[2025.12.09-14.52.55:655][  4]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Girder.SM_Girder as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_200
+[2025.12.09-14.54.00:243][286]LogStreaming: Display: FlushAsyncLoading(337): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-14.54.00:247][286]LogStaticMesh: Display: Building static mesh SM_PipesStraightShort (Required Memory Estimate: 0.497828 MB)...
+[2025.12.09-14.54.00:259][286]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SciFi/SM_PipesStraightShort.SM_PipesStraightShort
+[2025.12.09-14.54.00:477][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_PipesStraightShort.SM_PipesStraightShort
+[2025.12.09-14.54.00:477][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_PipesStraightShort.SM_PipesStraightShort
+[2025.12.09-14.54.00:478][287]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_PipesStraightShort.SM_PipesStraightShort as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_201
+[2025.12.09-14.54.01:773][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.09-14.54.01:776][366]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.12.09-14.54.01:785][366]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_PipesStraightShort.SM_PipesStraightShort
+[2025.12.09-14.54.01:785][366]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_PipesStraightShort.SM_PipesStraightShort
+[2025.12.09-14.54.01:787][366]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_PipesStraightShort.SM_PipesStraightShort as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_202
+[2025.12.09-14.54.08:384][795]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_202.StaticMeshComponent0.
+[2025.12.09-14.54.08:545][809]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_202.StaticMeshComponent0.
+[2025.12.09-14.54.17:509][421]Cmd: EDIT COPY
+[2025.12.09-14.54.17:767][427]Cmd: EDIT PASTE
+[2025.12.09-14.54.22:694][736]Cmd: EDIT COPY
+[2025.12.09-14.54.22:914][746]Cmd: EDIT PASTE
+[2025.12.09-14.54.43:092][994]LogStreaming: Display: FlushAsyncLoading(338): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-14.54.43:095][994]LogStaticMesh: Display: Building static mesh SM_PipesCurve (Required Memory Estimate: 0.80606 MB)...
+[2025.12.09-14.54.43:114][994]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/SciFi/SM_PipesCurve.SM_PipesCurve
+[2025.12.09-14.54.43:750][ 24]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_PipesCurve.SM_PipesCurve
+[2025.12.09-14.54.43:750][ 24]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_PipesCurve.SM_PipesCurve
+[2025.12.09-14.54.43:751][ 24]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_PipesCurve.SM_PipesCurve as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_205
+[2025.12.09-14.54.44:491][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.09-14.54.44:493][ 69]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.12.09-14.54.44:510][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_PipesCurve.SM_PipesCurve
+[2025.12.09-14.54.44:510][ 69]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_PipesCurve.SM_PipesCurve
+[2025.12.09-14.54.44:513][ 69]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_PipesCurve.SM_PipesCurve as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_206
+[2025.12.09-14.55.00:809][212]Cmd: DELETE
+[2025.12.09-14.55.00:809][212]Cmd: ACTOR DELETE
+[2025.12.09-14.55.00:815][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.55.00:845][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.12.09-14.55.00:847][212]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.12.09-14.55.02:181][288]Cmd: DELETE
+[2025.12.09-14.55.02:181][288]Cmd: ACTOR DELETE
+[2025.12.09-14.55.02:187][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.55.02:209][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.09-14.55.02:211][288]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.12.09-14.55.04:893][472]Cmd: DELETE
+[2025.12.09-14.55.04:893][472]Cmd: ACTOR DELETE
+[2025.12.09-14.55.04:899][472]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.55.04:944][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.09-14.55.04:946][472]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2025.12.09-14.55.05:438][505]Cmd: DELETE
+[2025.12.09-14.55.05:438][505]Cmd: ACTOR DELETE
+[2025.12.09-14.55.05:443][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-14.55.05:466][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.09-14.55.05:468][505]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.12.09-14.55.13:863][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3657.310791
+[2025.12.09-14.55.14:012][232]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-14.55.14:012][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3657.452393, Update Interval: 342.324280
+[2025.12.09-14.55.26:058][139]LogDerivedDataCache: C:/Users/donoh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.09-14.55.34:575][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.09-14.55.34:659][732]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto4
+[2025.12.09-14.55.34:660][732]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap_Auto412710AB24F45910F09F08FBBE2800224.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/Autosaves/Game/StartMap_Auto4.umap'
+[2025.12.09-14.55.34:662][732]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.111
+[2025.12.09-14.55.34:662][732]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.111
+[2025.12.09-14.57.35:718][782]Cmd: EDIT COPY
+[2025.12.09-14.57.36:056][795]Cmd: EDIT PASTE
+[2025.12.09-14.57.55:949][145]Cmd: TRANSACTION UNDO
+[2025.12.09-14.57.55:949][145]LogEditorTransaction: Undo Scale Elements
+[2025.12.09-14.58.00:320][383]Cmd: TRANSACTION UNDO
+[2025.12.09-14.58.00:320][383]LogEditorTransaction: Undo Scale Elements
+[2025.12.09-14.58.03:017][557]Cmd: TRANSACTION UNDO
+[2025.12.09-14.58.03:017][557]LogEditorTransaction: Undo Scale Elements
+[2025.12.09-14.58.08:404][936]Cmd: TRANSACTION UNDO
+[2025.12.09-14.58.08:404][936]LogEditorTransaction: Undo Scale Elements
+[2025.12.09-14.58.11:202][107]Cmd: TRANSACTION UNDO
+[2025.12.09-14.58.11:202][107]LogEditorTransaction: Undo Scale Elements
+[2025.12.09-14.58.14:028][330]Cmd: TRANSACTION UNDO
+[2025.12.09-14.58.14:028][330]LogEditorTransaction: Undo Scale Elements
+[2025.12.09-14.58.51:446][944]Cmd: EDIT COPY
+[2025.12.09-14.58.51:684][960]Cmd: EDIT PASTE
+[2025.12.09-14.59.03:409][764]Cmd: EDIT COPY
+[2025.12.09-14.59.03:640][780]Cmd: EDIT PASTE
+[2025.12.09-14.59.14:249][507]Cmd: TRANSACTION UNDO
+[2025.12.09-14.59.14:249][507]LogEditorTransaction: Undo Scale Elements
+[2025.12.09-14.59.14:547][511]Cmd: TRANSACTION UNDO
+[2025.12.09-14.59.14:547][511]LogEditorTransaction: Undo Scale Elements
+[2025.12.09-14.59.39:325][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-14.59.39:379][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-14.59.39:498][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.09-14.59.39:584][212]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-14.59.39:585][212]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapD681FDFC417C04FF413FFF8803B47667.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-14.59.39:613][212]LogFileHelpers: All files are already saved.
+[2025.12.09-14.59.39:613][212]LogFileHelpers: Saving map 'StartMap' took 0.234
+[2025.12.09-14.59.39:636][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 311.018 ms (total: 1:50 min)
+[2025.12.09-14.59.39:710][212]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-14.59.39:710][212]LogContentValidation: Enabled validators:
+[2025.12.09-14.59.39:710][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-14.59.39:710][212]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-14.59.39:710][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-14.59.39:710][212]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-14.59.39:710][212]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-14.59.39:710][212]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-14.59.39:710][212]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.00.28:289][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.00.28:356][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.00.28:460][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.09-15.00.28:533][571]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.00.28:534][571]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap42A362064ED189031B0B53BB9CC20CD9.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.00.28:574][571]LogFileHelpers: All files are already saved.
+[2025.12.09-15.00.28:574][571]LogFileHelpers: Saving map 'StartMap' took 0.219
+[2025.12.09-15.00.28:600][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 311.903 ms (total: 1:50 min)
+[2025.12.09-15.00.28:671][571]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.00.28:671][571]LogContentValidation: Enabled validators:
+[2025.12.09-15.00.28:671][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.00.28:671][571]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.00.28:671][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.00.28:671][571]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.00.28:671][571]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.00.28:671][571]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.00.28:672][571]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.01.15:476][ 77]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Console.SM_Console
+[2025.12.09-15.01.15:476][ 77]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Console.SM_Console
+[2025.12.09-15.01.15:477][ 77]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Console.SM_Console as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_210
+[2025.12.09-15.01.16:390][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.12.09-15.01.16:392][130]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.12.09-15.01.16:402][130]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Console.SM_Console
+[2025.12.09-15.01.16:402][130]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Console.SM_Console
+[2025.12.09-15.01.16:405][130]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Console.SM_Console as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_211
+[2025.12.09-15.01.25:159][683]Cmd: TRANSACTION UNDO
+[2025.12.09-15.01.25:159][683]LogEditorTransaction: Undo Move Elements
+[2025.12.09-15.01.41:162][716]Cmd: EDIT COPY
+[2025.12.09-15.01.41:357][728]Cmd: EDIT PASTE
+[2025.12.09-15.01.56:281][717]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4059.739990
+[2025.12.09-15.01.56:466][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.01.56:466][726]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4059.909668, Update Interval: 324.267700
+[2025.12.09-15.02.01:770][ 71]Cmd: DELETE
+[2025.12.09-15.02.01:770][ 71]Cmd: ACTOR DELETE
+[2025.12.09-15.02.01:777][ 71]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.02.01:826][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.12.09-15.02.01:828][ 71]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2025.12.09-15.02.03:039][159]Cmd: TRANSACTION UNDO
+[2025.12.09-15.02.03:039][159]LogEditorTransaction: Undo Delete Elements
+[2025.12.09-15.02.30:261][527]LogStreaming: Display: FlushAsyncLoading(339): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-15.02.30:269][527]LogStaticMesh: Display: Building static mesh SM_Arch (Required Memory Estimate: 0.17943 MB)...
+[2025.12.09-15.02.30:276][527]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SciFi/SM_Arch.SM_Arch
+[2025.12.09-15.02.30:555][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Arch.SM_Arch
+[2025.12.09-15.02.30:555][536]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Arch.SM_Arch
+[2025.12.09-15.02.30:556][536]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Arch.SM_Arch as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_213
+[2025.12.09-15.02.31:781][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.09-15.02.31:785][617]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.12.09-15.02.31:819][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Arch.SM_Arch
+[2025.12.09-15.02.31:819][617]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_Arch.SM_Arch
+[2025.12.09-15.02.31:821][617]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_Arch.SM_Arch as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_214
+[2025.12.09-15.02.38:860][ 75]Cmd: EDIT COPY
+[2025.12.09-15.02.39:081][ 94]Cmd: EDIT PASTE
+[2025.12.09-15.02.48:476][671]Cmd: EDIT COPY
+[2025.12.09-15.02.48:709][686]Cmd: EDIT PASTE
+[2025.12.09-15.02.57:798][276]Cmd: TRANSACTION UNDO
+[2025.12.09-15.02.57:798][276]LogEditorTransaction: Undo Scale Elements
+[2025.12.09-15.02.58:858][321]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_216.StaticMeshComponent0.
+[2025.12.09-15.02.59:380][359]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_216.StaticMeshComponent0.
+[2025.12.09-15.03.41:659][912]Cmd: EDIT COPY
+[2025.12.09-15.03.41:880][930]Cmd: EDIT PASTE
+[2025.12.09-15.04.20:214][295]Cmd: EDIT COPY
+[2025.12.09-15.04.20:446][301]Cmd: EDIT PASTE
+[2025.12.09-15.04.25:729][634]Cmd: EDIT COPY
+[2025.12.09-15.04.25:947][641]Cmd: EDIT PASTE
+[2025.12.09-15.04.29:046][841]Cmd: DELETE
+[2025.12.09-15.04.29:046][841]Cmd: ACTOR DELETE
+[2025.12.09-15.04.29:053][841]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.04.29:054][841]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.04.29:055][841]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.04.29:056][841]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.04.29:082][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.12.09-15.04.29:085][841]LogEditorActor: Deleted 4 Actors (0.040 secs)
+[2025.12.09-15.04.39:293][460]Cmd: TRANSACTION UNDO
+[2025.12.09-15.04.39:293][460]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.09-15.04.39:792][464]Cmd: TRANSACTION UNDO
+[2025.12.09-15.04.39:792][464]LogEditorTransaction: Undo Move Elements
+[2025.12.09-15.05.19:309][574]Cmd: DELETE
+[2025.12.09-15.05.19:309][574]Cmd: ACTOR DELETE
+[2025.12.09-15.05.19:315][574]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.05.19:343][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.12.09-15.05.19:346][574]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.12.09-15.05.26:518][977]Cmd: EDIT COPY
+[2025.12.09-15.05.26:765][988]Cmd: EDIT PASTE
+[2025.12.09-15.05.30:163][224]Cmd: EDIT COPY
+[2025.12.09-15.05.30:335][227]Cmd: EDIT PASTE
+[2025.12.09-15.05.33:737][445]Cmd: DELETE
+[2025.12.09-15.05.33:737][445]Cmd: ACTOR DELETE
+[2025.12.09-15.05.33:744][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.05.33:790][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.09-15.05.33:792][445]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2025.12.09-15.05.34:450][473]Cmd: DELETE
+[2025.12.09-15.05.34:450][473]Cmd: ACTOR DELETE
+[2025.12.09-15.05.34:456][473]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.05.34:481][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.09-15.05.34:484][473]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.12.09-15.05.35:331][537]Cmd: TRANSACTION UNDO
+[2025.12.09-15.05.35:331][537]LogEditorTransaction: Undo Delete Elements
+[2025.12.09-15.05.35:613][538]Cmd: TRANSACTION UNDO
+[2025.12.09-15.05.35:613][538]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.09-15.05.35:796][539]Cmd: TRANSACTION UNDO
+[2025.12.09-15.05.35:796][539]LogEditorTransaction: Undo Delete Elements
+[2025.12.09-15.05.36:060][540]Cmd: TRANSACTION UNDO
+[2025.12.09-15.05.36:060][540]LogEditorTransaction: Undo Move Elements
+[2025.12.09-15.05.36:284][553]Cmd: TRANSACTION UNDO
+[2025.12.09-15.05.36:284][553]LogEditorTransaction: Undo Paste
+[2025.12.09-15.05.36:923][581]Cmd: TRANSACTION UNDO
+[2025.12.09-15.05.36:923][581]LogEditorTransaction: Undo Move Elements
+[2025.12.09-15.05.37:363][612]Cmd: TRANSACTION UNDO
+[2025.12.09-15.05.37:363][612]LogEditorTransaction: Undo Paste
+[2025.12.09-15.05.37:852][641]Cmd: TRANSACTION UNDO
+[2025.12.09-15.05.37:852][641]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.09-15.05.38:395][664]Cmd: TRANSACTION UNDO
+[2025.12.09-15.05.38:395][664]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.09-15.05.38:864][678]Cmd: TRANSACTION UNDO
+[2025.12.09-15.05.38:864][678]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.09-15.05.39:352][685]Cmd: TRANSACTION UNDO
+[2025.12.09-15.05.39:352][685]LogEditorTransaction: Undo Delete Elements
+[2025.12.09-15.05.43:994][950]Cmd: EDIT COPY
+[2025.12.09-15.05.44:204][966]Cmd: EDIT PASTE
+[2025.12.09-15.05.45:392][ 46]Cmd: DELETE
+[2025.12.09-15.05.45:392][ 46]Cmd: ACTOR DELETE
+[2025.12.09-15.05.45:398][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.05.45:421][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.12.09-15.05.45:423][ 46]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.12.09-15.05.46:553][106]Cmd: DELETE
+[2025.12.09-15.05.46:553][106]Cmd: ACTOR DELETE
+[2025.12.09-15.05.46:560][106]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.05.46:586][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.09-15.05.46:589][106]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.12.09-15.05.47:224][127]Cmd: DELETE
+[2025.12.09-15.05.47:224][127]Cmd: ACTOR DELETE
+[2025.12.09-15.05.47:231][127]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.05.47:258][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.12.09-15.05.47:260][127]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.12.09-15.05.51:403][378]Cmd: EDIT COPY
+[2025.12.09-15.05.51:622][394]Cmd: EDIT PASTE
+[2025.12.09-15.06.00:672][928]Cmd: DELETE
+[2025.12.09-15.06.00:673][928]Cmd: ACTOR DELETE
+[2025.12.09-15.06.00:673][928]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.12.09-15.06.00:678][928]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.06.00:719][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.09-15.06.00:721][928]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2025.12.09-15.06.01:911][974]Cmd: TRANSACTION UNDO
+[2025.12.09-15.06.01:911][974]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.09-15.06.02:416][981]Cmd: TRANSACTION UNDO
+[2025.12.09-15.06.02:416][981]LogEditorTransaction: Undo Delete Elements
+[2025.12.09-15.06.04:219][ 63]Cmd: EDIT COPY
+[2025.12.09-15.06.04:453][ 80]Cmd: EDIT PASTE
+[2025.12.09-15.06.09:732][411]Cmd: DELETE
+[2025.12.09-15.06.09:732][411]Cmd: ACTOR DELETE
+[2025.12.09-15.06.09:738][411]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.06.09:764][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.09-15.06.09:767][411]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.12.09-15.06.33:352][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.06.33:396][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.06.33:496][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.09-15.06.33:574][844]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.06.33:575][844]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapA9CA576E48FBB7AF1B20AEBBE6C4D435.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.06.33:613][844]LogFileHelpers: All files are already saved.
+[2025.12.09-15.06.33:613][844]LogFileHelpers: Saving map 'StartMap' took 0.217
+[2025.12.09-15.06.33:620][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 268.620 ms (total: 1:50 min)
+[2025.12.09-15.06.33:683][844]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.06.33:683][844]LogContentValidation: Enabled validators:
+[2025.12.09-15.06.33:683][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.06.33:683][844]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.06.33:683][844]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.06.33:683][844]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.06.33:683][844]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.06.33:683][844]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.06.33:683][844]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.07.37:930][554]Cmd: EDIT COPY
+[2025.12.09-15.07.38:133][567]Cmd: EDIT PASTE
+[2025.12.09-15.07.55:755][829]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4419.208496
+[2025.12.09-15.07.56:074][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.07.56:075][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4419.418945, Update Interval: 326.860565
+[2025.12.09-15.08.17:854][204]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.09-15.08.17:855][204]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.12.09-15.08.17:856][204]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_233
+[2025.12.09-15.08.17:857][204]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_233
+[2025.12.09-15.08.40:550][684]Cmd: EDIT COPY
+[2025.12.09-15.08.40:777][699]Cmd: EDIT PASTE
+[2025.12.09-15.08.47:731][193]Cmd: TRANSACTION UNDO
+[2025.12.09-15.08.47:731][193]LogEditorTransaction: Undo Move Elements
+[2025.12.09-15.08.50:292][331]Cmd: EDIT COPY
+[2025.12.09-15.08.50:511][336]Cmd: EDIT PASTE
+[2025.12.09-15.09.02:381][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.09.02:457][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.09.02:565][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.12.09-15.09.02:655][138]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.09.02:656][138]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap17B02BA24447848553A778A5031EEFED.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.09.02:704][138]LogFileHelpers: All files are already saved.
+[2025.12.09-15.09.02:705][138]LogFileHelpers: Saving map 'StartMap' took 0.248
+[2025.12.09-15.09.02:720][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 339.609 ms (total: 1:50 min)
+[2025.12.09-15.09.02:799][138]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.09.02:799][138]LogContentValidation: Enabled validators:
+[2025.12.09-15.09.02:799][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.09.02:799][138]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.09.02:799][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.09.02:799][138]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.09.02:799][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.09.02:799][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.09.02:799][138]AssetCheck: /Game/StartMap Validating asset
