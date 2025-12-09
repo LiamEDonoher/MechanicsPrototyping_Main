@@ -2459,3 +2459,255 @@ Continue: Skip saving this asset only.
 [2025.12.09-15.20.37:030][908]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5180.488770
 [2025.12.09-15.20.38:031][911]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.09-15.20.38:031][911]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5181.156738, Update Interval: 351.496338
+[2025.12.09-15.23.03:051][613]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.09-15.23.06:210][824]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.09-15.23.08:141][924]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.09-15.23.08:157][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.09-15.23.08:157][924]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.09-15.23.08:187][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029596s)
+[2025.12.09-15.23.08:187][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.029675s)
+[2025.12.09-15.23.08:215][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.09-15.23.08:218][924]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.09-15.23.08:221][924]LogPlayLevel: PIE: World Init took: (0.003272s)
+[2025.12.09-15.23.08:223][924]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.12.09-15.23.08:223][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.09-15.23.08:223][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.09-15.23.08:223][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.09-15.23.08:223][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.09-15.23.08:223][924]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.09-15.23.08:224][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.09-15.23.08:224][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.09-15.23.08:224][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.09-15.23.08:224][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.09-15.23.08:224][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.09-15.23.08:224][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.09-15.23.08:228][924]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.09-15.23.08:328][924]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.12.09-15.23.08:328][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.09-15.23.08:328][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.09-15.23.08:328][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.09-15.23.08:329][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.12.09-15.23.08:329][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.12.09-15.23.08:333][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.12.09-15.23.08:333][924]LogInit: FAudioDevice initialized with ID 4.
+[2025.12.09-15.23.08:333][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.12.09-15.23.08:333][924]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartMap'.
+[2025.12.09-15.23.08:333][924]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.09-15.23.08:345][924]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.09-15.23.08:358][924]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.09-15.23.08
+[2025.12.09-15.23.08:358][924]LogWorld: Bringing up level for play took: 0.013239
+[2025.12.09-15.23.08:362][924]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.12.09-15.23.08:367][924]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.09-15.23.08:367][924]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.09-15.23.08:370][924]PIE: Server logged in
+[2025.12.09-15.23.08:374][924]PIE: Play in editor total start time 0.218 seconds.
+[2025.12.09-15.23.20:749][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-15.23.20:749][811]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.09-15.23.20:749][811]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.23.20:753][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.23.20:754][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.09-15.23.20:760][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.23.20:792][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-15.23.20:793][811]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.09-15.23.20:793][811]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.12.09-15.23.20:796][811]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.12.09-15.23.20:822][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.09-15.23.20:920][812]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.12.09-15.24.10:127][645]Cmd: TRANSACTION UNDO
+[2025.12.09-15.24.10:127][645]LogEditorTransaction: Undo Move Elements
+[2025.12.09-15.24.24:670][406]Cmd: DELETE
+[2025.12.09-15.24.24:670][406]Cmd: ACTOR DELETE
+[2025.12.09-15.24.24:676][406]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.24.24:715][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.09-15.24.24:718][406]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2025.12.09-15.25.19:468][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.25.19:529][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.25.19:640][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.09-15.25.19:736][ 73]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.25.19:738][ 73]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap5D2801854DC31BD587B7818247D73FB7.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.25.19:786][ 73]LogFileHelpers: All files are already saved.
+[2025.12.09-15.25.19:786][ 73]LogFileHelpers: Saving map 'StartMap' took 0.257
+[2025.12.09-15.25.19:831][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 362.607 ms (total: 1:54 min)
+[2025.12.09-15.25.19:889][ 73]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.25.19:889][ 73]LogContentValidation: Enabled validators:
+[2025.12.09-15.25.19:889][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.25.19:889][ 73]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.25.19:889][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.25.19:889][ 73]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.25.19:889][ 73]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.25.19:889][ 73]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.25.19:889][ 73]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.25.21:765][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.25.21:843][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.25.21:970][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.09-15.25.22:082][194]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.25.22:083][194]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapCC576BC64F01ECD7FD43D3B03C9EC75C.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.25.22:134][194]LogFileHelpers: All files are already saved.
+[2025.12.09-15.25.22:134][194]LogFileHelpers: Saving map 'StartMap' took 0.292
+[2025.12.09-15.25.22:147][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 381.903 ms (total: 1:54 min)
+[2025.12.09-15.25.22:205][194]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.25.22:205][194]LogContentValidation: Enabled validators:
+[2025.12.09-15.25.22:205][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.25.22:206][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.25.22:206][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.25.22:206][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.25.22:206][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.25.22:206][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.25.22:206][194]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.25.40:930][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.25.41:016][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.25.41:130][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.09-15.25.41:230][456]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.25.41:231][456]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapD08CAA41411F262026C58D89957FC097.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.25.41:297][456]LogFileHelpers: All files are already saved.
+[2025.12.09-15.25.41:297][456]LogFileHelpers: Saving map 'StartMap' took 0.282
+[2025.12.09-15.25.41:308][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 377.611 ms (total: 1:54 min)
+[2025.12.09-15.25.41:369][456]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.25.41:369][456]LogContentValidation: Enabled validators:
+[2025.12.09-15.25.41:369][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.25.41:369][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.25.41:369][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.25.41:369][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.25.41:369][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.25.41:369][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.25.41:369][456]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.25.49:253][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.25.49:320][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.25.49:429][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.09-15.25.49:527][  8]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.25.49:528][  8]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapA0D3AB654CFF32CE389AA6AF4A9F7C65.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.25.49:558][  8]LogFileHelpers: All files are already saved.
+[2025.12.09-15.25.49:558][  8]LogFileHelpers: Saving map 'StartMap' took 0.238
+[2025.12.09-15.25.49:571][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 317.246 ms (total: 1:55 min)
+[2025.12.09-15.25.49:638][  8]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.25.49:638][  8]LogContentValidation: Enabled validators:
+[2025.12.09-15.25.49:638][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.25.49:638][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.25.49:638][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.25.49:638][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.25.49:638][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.25.49:638][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.25.49:638][  8]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.26.06:043][906]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.09-15.26.06:057][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.09-15.26.06:058][906]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.09-15.26.06:092][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034057s)
+[2025.12.09-15.26.06:092][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.034281s)
+[2025.12.09-15.26.06:117][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.09-15.26.06:118][906]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.09-15.26.06:120][906]LogPlayLevel: PIE: World Init took: (0.003045s)
+[2025.12.09-15.26.06:122][906]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.12.09-15.26.06:122][906]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.09-15.26.06:122][906]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.09-15.26.06:122][906]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.09-15.26.06:122][906]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.09-15.26.06:122][906]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.09-15.26.06:122][906]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.09-15.26.06:122][906]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.09-15.26.06:122][906]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.09-15.26.06:122][906]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.09-15.26.06:122][906]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.09-15.26.06:122][906]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.09-15.26.06:126][906]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.09-15.26.06:192][906]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2025.12.09-15.26.06:192][906]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.09-15.26.06:192][906]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.09-15.26.06:192][906]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.09-15.26.06:194][906]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.12.09-15.26.06:194][906]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.12.09-15.26.06:197][906]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.12.09-15.26.06:197][906]LogInit: FAudioDevice initialized with ID 5.
+[2025.12.09-15.26.06:197][906]LogAudio: Display: Audio Device (ID: 5) registered with world 'StartMap'.
+[2025.12.09-15.26.06:197][906]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.12.09-15.26.06:197][906]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.09-15.26.06:202][906]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.09-15.26.06:216][906]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.09-15.26.06
+[2025.12.09-15.26.06:216][906]LogWorld: Bringing up level for play took: 0.013665
+[2025.12.09-15.26.06:219][906]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.12.09-15.26.06:223][906]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.09-15.26.06:223][906]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.09-15.26.06:225][906]PIE: Server logged in
+[2025.12.09-15.26.06:228][906]PIE: Play in editor total start time 0.171 seconds.
+[2025.12.09-15.26.31:129][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-15.26.31:130][903]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.09-15.26.31:130][903]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.09-15.26.31:133][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.26.31:134][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.09-15.26.31:139][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.09-15.26.31:166][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.09-15.26.31:167][903]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.09-15.26.31:167][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.12.09-15.26.31:169][903]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.12.09-15.26.31:182][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.09-15.26.31:325][904]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.12.09-15.26.40:149][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.26.40:221][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.26.40:303][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.12.09-15.26.40:399][487]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.26.40:400][487]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap993EDE7D419D7D2CDBBD37BA09E20872.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.26.40:429][487]LogFileHelpers: All files are already saved.
+[2025.12.09-15.26.40:430][487]LogFileHelpers: Saving map 'StartMap' took 0.208
+[2025.12.09-15.26.40:443][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 293.801 ms (total: 1:55 min)
+[2025.12.09-15.26.40:513][487]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.26.40:513][487]LogContentValidation: Enabled validators:
+[2025.12.09-15.26.40:513][487]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.26.40:513][487]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.26.40:513][487]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.26.40:513][487]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.26.40:513][487]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.26.40:513][487]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.26.40:514][487]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.26.55:564][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.26.55:645][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.26.55:748][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.09-15.26.55:839][581]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.26.55:840][581]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap544DE72E4EF6168D05BCC8AE775FA70F.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.26.55:876][581]LogFileHelpers: All files are already saved.
+[2025.12.09-15.26.55:876][581]LogFileHelpers: Saving map 'StartMap' took 0.232
+[2025.12.09-15.26.55:884][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 319.573 ms (total: 1:55 min)
+[2025.12.09-15.26.55:958][581]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.26.55:959][581]LogContentValidation: Enabled validators:
+[2025.12.09-15.26.55:959][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.26.55:959][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.26.55:959][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.26.55:959][581]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.26.55:959][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.26.55:959][581]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.26.55:959][581]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.27.17:716][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.27.17:791][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.27.17:883][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.12.09-15.27.17:975][128]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.27.17:976][128]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap8B93C24346C5AC274F9C749DC2B32B1F.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.27.18:003][128]LogFileHelpers: All files are already saved.
+[2025.12.09-15.27.18:003][128]LogFileHelpers: Saving map 'StartMap' took 0.214
+[2025.12.09-15.27.18:011][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 294.290 ms (total: 1:56 min)
+[2025.12.09-15.27.18:067][128]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.27.18:067][128]LogContentValidation: Enabled validators:
+[2025.12.09-15.27.18:067][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.27.18:067][128]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.27.18:067][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.27.18:067][128]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.27.18:067][128]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.27.18:067][128]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.27.18:067][128]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.27.22:695][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5586.179199
+[2025.12.09-15.27.22:852][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.27.22:852][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5586.326660, Update Interval: 359.816895
+[2025.12.09-15.27.44:377][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.27.44:452][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.27.44:540][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.09-15.27.44:635][930]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.27.44:636][930]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapD0843117479B43088EF162BF89C651CC.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.27.44:670][930]LogFileHelpers: All files are already saved.
+[2025.12.09-15.27.44:670][930]LogFileHelpers: Saving map 'StartMap' took 0.218
+[2025.12.09-15.27.44:692][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 314.100 ms (total: 1:56 min)
+[2025.12.09-15.27.44:736][930]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.27.44:736][930]LogContentValidation: Enabled validators:
+[2025.12.09-15.27.44:736][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.27.44:736][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.27.44:736][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.27.44:736][930]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.27.44:736][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.27.44:736][930]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.27.44:736][930]AssetCheck: /Game/StartMap Validating asset
