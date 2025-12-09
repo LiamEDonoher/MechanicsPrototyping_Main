@@ -2276,3 +2276,186 @@ Continue: Skip saving this asset only.
 [2025.12.09-15.09.02:799][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.09-15.09.02:799][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.09-15.09.02:799][138]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.10.18:482][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.10.18:550][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.10.18:652][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.09-15.10.18:735][433]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.10.18:736][433]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapCC1BF88A40F4E84DED8242B482644867.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.10.18:770][433]LogFileHelpers: All files are already saved.
+[2025.12.09-15.10.18:770][433]LogFileHelpers: Saving map 'StartMap' took 0.219
+[2025.12.09-15.10.18:799][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 316.956 ms (total: 1:51 min)
+[2025.12.09-15.10.18:857][433]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.10.18:857][433]LogContentValidation: Enabled validators:
+[2025.12.09-15.10.18:857][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.10.18:857][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.10.18:857][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.10.18:857][433]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.10.18:857][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.10.18:858][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.10.18:858][433]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.11.52:034][152]Cmd: EDIT COPY
+[2025.12.09-15.11.52:282][160]Cmd: EDIT PASTE
+[2025.12.09-15.11.57:981][566]Cmd: EDIT COPY
+[2025.12.09-15.11.58:217][585]Cmd: EDIT PASTE
+[2025.12.09-15.12.26:882][652]Cmd: EDIT COPY
+[2025.12.09-15.12.27:142][660]Cmd: EDIT PASTE
+[2025.12.09-15.13.19:058][367]Cmd: DELETE
+[2025.12.09-15.13.19:058][367]Cmd: ACTOR DELETE
+[2025.12.09-15.13.19:064][367]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-15.13.19:096][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.09-15.13.19:099][367]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2025.12.09-15.13.25:200][777]Cmd: ACTOR SELECT ALL
+[2025.12.09-15.14.03:405][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4786.854004
+[2025.12.09-15.14.03:561][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.14.03:561][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4786.999512, Update Interval: 338.215271
+[2025.12.09-15.14.09:605][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank
+[2025.12.09-15.14.09:605][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank
+[2025.12.09-15.14.09:606][824]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_240
+[2025.12.09-15.14.12:342][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.09-15.14.12:345][ 59]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.12.09-15.14.12:353][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank
+[2025.12.09-15.14.12:353][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank
+[2025.12.09-15.14.12:355][ 59]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_ExplosiveTank.SM_ExplosiveTank as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_241
+[2025.12.09-15.14.38:537][863]Cmd: EDIT COPY
+[2025.12.09-15.14.38:782][867]Cmd: EDIT PASTE
+[2025.12.09-15.15.08:723][913]Cmd: EDIT COPY
+[2025.12.09-15.15.08:928][920]Cmd: EDIT PASTE
+[2025.12.09-15.17.11:510][700]Cmd: EDIT COPY
+[2025.12.09-15.17.12:452][749]Cmd: EDIT PASTE
+[2025.12.09-15.17.37:280][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.17.37:348][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.17.37:462][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.09-15.17.37:554][457]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.17.37:555][457]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap597FBC794A3CEEDC2808CC9940A1F57A.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.17.37:604][457]LogFileHelpers: All files are already saved.
+[2025.12.09-15.17.37:604][457]LogFileHelpers: Saving map 'StartMap' took 0.257
+[2025.12.09-15.17.37:639][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 358.888 ms (total: 1:51 min)
+[2025.12.09-15.17.37:682][457]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.17.37:682][457]LogContentValidation: Enabled validators:
+[2025.12.09-15.17.37:682][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.17.37:682][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.17.37:682][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.17.37:682][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.17.37:682][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.17.37:682][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.17.37:682][457]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.17.40:824][685]Cmd: EDIT COPY
+[2025.12.09-15.17.41:086][697]Cmd: EDIT PASTE
+[2025.12.09-15.18.00:805][ 46]Cmd: EDIT COPY
+[2025.12.09-15.18.01:022][ 66]Cmd: EDIT PASTE
+[2025.12.09-15.18.12:914][897]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.09-15.18.13:140][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.18.13:203][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.18.13:276][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.12.09-15.18.13:368][909]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.18.13:369][909]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapC07A58E54939BB376317808118A22410.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.18.13:409][909]LogFileHelpers: All files are already saved.
+[2025.12.09-15.18.13:409][909]LogFileHelpers: Saving map 'StartMap' took 0.206
+[2025.12.09-15.18.13:437][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 296.834 ms (total: 1:51 min)
+[2025.12.09-15.18.13:502][909]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.18.13:503][909]LogContentValidation: Enabled validators:
+[2025.12.09-15.18.13:503][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.18.13:503][909]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.18.13:503][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.18.13:503][909]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.18.13:503][909]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.18.13:503][909]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.18.13:503][909]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.18.21:138][416]Cmd: EDIT COPY
+[2025.12.09-15.18.21:367][433]Cmd: EDIT PASTE
+[2025.12.09-15.18.49:677][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.18.49:756][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.18.49:846][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.09-15.18.49:952][469]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.18.49:953][469]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapB192CC1E42AE3CD97DE0D1947324AF39.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.18.50:001][469]LogFileHelpers: All files are already saved.
+[2025.12.09-15.18.50:001][469]LogFileHelpers: Saving map 'StartMap' took 0.246
+[2025.12.09-15.18.50:008][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 331.076 ms (total: 1:52 min)
+[2025.12.09-15.18.50:070][469]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.18.50:070][469]LogContentValidation: Enabled validators:
+[2025.12.09-15.18.50:070][469]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.18.50:070][469]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.18.50:070][469]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.18.50:070][469]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.18.50:070][469]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.18.50:070][469]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.18.50:070][469]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.19.05:382][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.19.05:444][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.19.05:525][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.09-15.19.05:618][280]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.19.05:619][280]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap5EAD882142A691F37CEDAA9726520841.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.19.05:662][280]LogFileHelpers: All files are already saved.
+[2025.12.09-15.19.05:664][280]LogFileHelpers: Saving map 'StartMap' took 0.221
+[2025.12.09-15.19.05:673][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 291.139 ms (total: 1:52 min)
+[2025.12.09-15.19.05:743][280]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.19.05:743][280]LogContentValidation: Enabled validators:
+[2025.12.09-15.19.05:743][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.19.05:743][280]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.19.05:743][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.19.05:743][280]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.19.05:743][280]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.19.05:743][280]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.19.05:743][280]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.19.13:276][830]Cmd: EDIT COPY
+[2025.12.09-15.19.13:485][834]Cmd: EDIT PASTE
+[2025.12.09-15.19.31:826][ 79]Cmd: TRANSACTION UNDO
+[2025.12.09-15.19.31:826][ 79]LogEditorTransaction: Undo Move Elements
+[2025.12.09-15.19.47:079][ 59]Cmd: EDIT COPY
+[2025.12.09-15.19.47:320][ 73]Cmd: EDIT PASTE
+[2025.12.09-15.19.51:429][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.19.51:504][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.19.51:642][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.09-15.19.51:737][338]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.19.51:738][338]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap5930B1DB4548E93F32FAA0A8312EA98B.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.19.51:797][338]LogFileHelpers: All files are already saved.
+[2025.12.09-15.19.51:797][338]LogFileHelpers: Saving map 'StartMap' took 0.293
+[2025.12.09-15.19.51:830][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 401.138 ms (total: 1:52 min)
+[2025.12.09-15.19.51:904][338]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.19.51:904][338]LogContentValidation: Enabled validators:
+[2025.12.09-15.19.51:904][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.19.51:904][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.19.51:904][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.19.51:904][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.19.51:904][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.19.51:904][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.19.51:904][338]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.19.58:829][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.19.58:906][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.19.58:994][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.09-15.19.59:089][804]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.19.59:090][804]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap334A9CAF47AC75A7E2DC51A7B12C79DF.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.19.59:151][804]LogFileHelpers: All files are already saved.
+[2025.12.09-15.19.59:151][804]LogFileHelpers: Saving map 'StartMap' took 0.246
+[2025.12.09-15.19.59:191][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 362.180 ms (total: 1:53 min)
+[2025.12.09-15.19.59:256][804]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.19.59:256][804]LogContentValidation: Enabled validators:
+[2025.12.09-15.19.59:257][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.19.59:257][804]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.19.59:257][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.19.59:257][804]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.19.59:257][804]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.19.59:257][804]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.19.59:257][804]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.20.03:432][105]Cmd: EDIT COPY
+[2025.12.09-15.20.03:665][119]Cmd: EDIT PASTE
+[2025.12.09-15.20.28:393][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-15.20.28:472][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-15.20.28:590][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.09-15.20.28:686][799]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-15.20.28:687][799]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap838D0F7C44FA8B96DFDAF5A205FFFDB4.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-15.20.28:730][799]LogFileHelpers: All files are already saved.
+[2025.12.09-15.20.28:730][799]LogFileHelpers: Saving map 'StartMap' took 0.259
+[2025.12.09-15.20.28:754][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 361.503 ms (total: 1:53 min)
+[2025.12.09-15.20.28:824][799]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-15.20.28:824][799]LogContentValidation: Enabled validators:
+[2025.12.09-15.20.28:824][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-15.20.28:824][799]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-15.20.28:824][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-15.20.28:824][799]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-15.20.28:824][799]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-15.20.28:824][799]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-15.20.28:824][799]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.20.37:030][908]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5180.488770
+[2025.12.09-15.20.38:031][911]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.20.38:031][911]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5181.156738, Update Interval: 351.496338
