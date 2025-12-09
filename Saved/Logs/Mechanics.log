@@ -2711,3 +2711,365 @@ Continue: Skip saving this asset only.
 [2025.12.09-15.27.44:736][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.09-15.27.44:736][930]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.09-15.27.44:736][930]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-15.34.14:163][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5997.654297
+[2025.12.09-15.34.15:164][ 63]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.34.15:164][ 63]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5998.323242, Update Interval: 302.371277
+[2025.12.09-15.39.52:673][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6336.164062
+[2025.12.09-15.39.53:670][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.39.53:670][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6336.827148, Update Interval: 310.076599
+[2025.12.09-15.45.43:233][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6686.714355
+[2025.12.09-15.45.44:229][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.45.44:229][125]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6687.375977, Update Interval: 316.891998
+[2025.12.09-15.51.35:666][177]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7039.150391
+[2025.12.09-15.51.36:668][180]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.51.36:669][180]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7039.822266, Update Interval: 312.585236
+[2025.12.09-15.55.26:068][867]LogDerivedDataCache: C:/Users/donoh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.09-15.57.48:346][292]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7411.833008
+[2025.12.09-15.57.49:350][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-15.57.49:350][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7412.502930, Update Interval: 316.928619
+[2025.12.09-16.03.55:133][389]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7778.616211
+[2025.12.09-16.03.56:136][392]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-16.03.56:136][392]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7779.284180, Update Interval: 329.947815
+[2025.12.09-16.09.58:429][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8141.900391
+[2025.12.09-16.09.59:429][479]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-16.09.59:429][479]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8142.565918, Update Interval: 325.089874
+[2025.12.09-16.16.00:783][560]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8504.256836
+[2025.12.09-16.16.01:781][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-16.16.01:781][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8504.923828, Update Interval: 317.719666
+[2025.12.09-16.21.57:401][627]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8860.874023
+[2025.12.09-16.21.58:403][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-16.21.58:403][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8861.541016, Update Interval: 350.159607
+[2025.12.09-16.28.20:718][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9244.174805
+[2025.12.09-16.28.21:721][778]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-16.28.21:721][778]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9244.837891, Update Interval: 314.258850
+[2025.12.09-16.34.25:342][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9608.797852
+[2025.12.09-16.34.26:346][869]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-16.34.26:346][869]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9609.466797, Update Interval: 310.851166
+[2025.12.09-16.40.09:313][895]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9952.762695
+[2025.12.09-16.40.10:315][897]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-16.40.10:315][897]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9953.431641, Update Interval: 309.454010
+[2025.12.09-16.45.55:269][929]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10298.708984
+[2025.12.09-16.45.56:268][932]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-16.45.56:268][932]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10299.375000, Update Interval: 309.358795
+[2025.12.09-16.52.03:233][ 30]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10666.666992
+[2025.12.09-16.52.04:238][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-16.52.04:238][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10667.339844, Update Interval: 321.696838
+[2025.12.09-16.55.26:464][639]LogDerivedDataCache: C:/Users/donoh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.004 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.09-16.58.16:872][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11040.313477
+[2025.12.09-16.58.17:867][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-16.58.17:867][151]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11040.974609, Update Interval: 319.091156
+[2025.12.09-17.04.36:748][285]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11420.197266
+[2025.12.09-17.04.37:754][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-17.04.37:754][289]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11420.865234, Update Interval: 302.471985
+[2025.12.09-17.10.12:206][289]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11755.642578
+[2025.12.09-17.10.13:207][292]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-17.10.13:207][292]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11756.309570, Update Interval: 300.944855
+[2025.12.09-17.16.04:072][343]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12107.515625
+[2025.12.09-17.16.05:075][345]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-17.16.05:075][345]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12108.186523, Update Interval: 357.932678
+[2025.12.09-17.22.34:118][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12497.548828
+[2025.12.09-17.22.35:120][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-17.22.35:120][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12498.219727, Update Interval: 352.543701
+[2025.12.09-17.29.26:249][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12909.679688
+[2025.12.09-17.29.27:255][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-17.29.27:255][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12910.349609, Update Interval: 306.842865
+[2025.12.09-17.35.17:877][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13261.302734
+[2025.12.09-17.35.18:879][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-17.35.18:879][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13261.975586, Update Interval: 344.732208
+[2025.12.09-17.41.38:585][933]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13642.014648
+[2025.12.09-17.41.39:582][936]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-17.41.39:582][936]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13642.677734, Update Interval: 324.280518
+[2025.12.09-17.48.02:891][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14026.312500
+[2025.12.09-17.48.03:892][ 86]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-17.48.03:892][ 86]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14026.982422, Update Interval: 329.804993
+[2025.12.09-17.54.14:243][195]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14397.675781
+[2025.12.09-17.54.15:250][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-17.54.15:250][198]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14398.344727, Update Interval: 310.431824
+[2025.12.09-17.55.26:519][411]LogDerivedDataCache: C:/Users/donoh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.09-18.00.04:191][242]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14747.643555
+[2025.12.09-18.00.05:193][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.00.05:193][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14748.310547, Update Interval: 335.739624
+[2025.12.09-18.06.26:460][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15129.903320
+[2025.12.09-18.06.27:462][388]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.06.27:462][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15130.573242, Update Interval: 333.890198
+[2025.12.09-18.12.34:958][488]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15498.418945
+[2025.12.09-18.12.35:962][491]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.12.35:962][491]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15499.087891, Update Interval: 350.893890
+[2025.12.09-18.15.35:497][632]LogSlate: Window 'Batch Renamer' being destroyed
+[2025.12.09-18.15.38:709][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.12.09-18.15.38:836][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto5
+[2025.12.09-18.15.38:837][873]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap_Auto5A56F8CE6479DA8338102CFAA37974A86.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/Autosaves/Game/StartMap_Auto5.umap'
+[2025.12.09-18.15.38:840][873]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.165
+[2025.12.09-18.15.38:840][873]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.165
+[2025.12.09-18.16.30:510][901]LogSlate: Window 'Batch Renamer' being destroyed
+[2025.12.09-18.17.00:577][930]LogSlate: Window 'Batch Renamer' being destroyed
+[2025.12.09-18.18.59:198][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15882.724609
+[2025.12.09-18.19.00:208][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.19.00:208][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15883.394531, Update Interval: 328.829010
+[2025.12.09-18.25.14:112][590]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16257.629883
+[2025.12.09-18.25.15:115][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.25.15:115][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16258.295898, Update Interval: 313.486145
+[2025.12.09-18.25.39:296][664]LogUObjectHash: Compacting FUObjectHashTables data took  17.52ms
+[2025.12.09-18.25.39:444][664]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto6
+[2025.12.09-18.25.39:444][664]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap_Auto645F68C0D49BE5EE8455992ABB8E2BD57.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/Autosaves/Game/StartMap_Auto6.umap'
+[2025.12.09-18.25.39:506][664]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.265
+[2025.12.09-18.25.39:506][664]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.265
+[2025.12.09-18.31.15:502][671]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16619.009766
+[2025.12.09-18.31.16:497][673]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.31.16:497][673]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16619.681641, Update Interval: 315.397797
+[2025.12.09-18.37.02:525][708]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16966.048828
+[2025.12.09-18.37.03:524][711]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.37.03:524][711]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16966.716797, Update Interval: 310.278015
+[2025.12.09-18.42.54:122][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17317.648438
+[2025.12.09-18.42.55:138][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.42.55:138][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17318.324219, Update Interval: 342.765594
+[2025.12.09-18.49.21:464][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17704.994141
+[2025.12.09-18.49.22:469][923]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.49.22:469][923]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17705.662109, Update Interval: 318.787201
+[2025.12.09-18.55.26:519][ 12]LogDerivedDataCache: C:/Users/donoh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.09-18.55.41:159][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18084.683594
+[2025.12.09-18.55.42:156][ 58]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-18.55.42:156][ 58]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18085.351562, Update Interval: 344.113281
+[2025.12.09-18.56.04:427][125]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Panasonic-TV (NVIDIA High Definition Audio), InstanceID=1
+[2025.12.09-18.56.04:427][125]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{98d5fddf-b50e-4b5d-87a4-25e16b440f35}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.12.09-18.56.04:547][125]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{98d5fddf-b50e-4b5d-87a4-25e16b440f35}]
+[2025.12.09-18.56.04:547][125]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.12.09-18.56.04:552][125]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.12.09-18.56.04:888][126]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{98d5fddf-b50e-4b5d-87a4-25e16b440f35}, Name=Panasonic-TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=209.06
+[2025.12.09-18.56.04:888][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.12.09-18.56.04:888][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.12.09-18.56.04:891][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.12.09-19.02.05:312][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18468.845703
+[2025.12.09-19.02.06:311][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.02.06:311][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18469.511719, Update Interval: 357.443787
+[2025.12.09-19.05.04:113][273]LogSlate: Window 'Batch Renamer' being destroyed
+[2025.12.09-19.07.48:296][209]Cmd: DELETE
+[2025.12.09-19.07.48:297][209]Cmd: ACTOR DELETE
+[2025.12.09-19.08.40:050][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18863.480469
+[2025.12.09-19.08.40:203][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.08.40:203][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18863.623047, Update Interval: 303.039642
+[2025.12.09-19.10.30:094][830]Cmd: DELETE
+[2025.12.09-19.10.30:094][830]Cmd: ACTOR DELETE
+[2025.12.09-19.10.30:102][830]LogEditorActor: Deleted Actor: PointLight
+[2025.12.09-19.10.30:167][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.12.09-19.10.30:170][830]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2025.12.09-19.10.34:834][227]Cmd: DELETE
+[2025.12.09-19.10.34:834][227]Cmd: ACTOR DELETE
+[2025.12.09-19.10.34:840][227]LogEditorActor: Deleted Actor: PointLight
+[2025.12.09-19.10.34:902][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.09-19.10.34:904][227]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2025.12.09-19.10.35:831][302]Cmd: DELETE
+[2025.12.09-19.10.35:832][302]Cmd: ACTOR DELETE
+[2025.12.09-19.10.35:838][302]LogEditorActor: Deleted Actor: PointLight
+[2025.12.09-19.10.35:870][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.09-19.10.35:872][302]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2025.12.09-19.10.36:762][376]Cmd: DELETE
+[2025.12.09-19.10.36:762][376]Cmd: ACTOR DELETE
+[2025.12.09-19.10.36:768][376]LogEditorActor: Deleted Actor: PointLight
+[2025.12.09-19.10.36:796][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.09-19.10.36:798][376]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.12.09-19.11.49:275][967]Cmd: DELETE
+[2025.12.09-19.11.49:275][967]Cmd: ACTOR DELETE
+[2025.12.09-19.12.15:941][849]LogStreaming: Display: FlushAsyncLoading(340): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-19.12.16:127][852]LogStaticMesh: Display: Building static mesh Rock_04 (Required Memory Estimate: 0.04693 MB)...
+[2025.12.09-19.12.16:163][856]LogStaticMesh: Built static mesh [0.13s] /Game/Meshes/SciFi/Rock_04.Rock_04
+[2025.12.09-19.12.16:224][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/Rock_04.Rock_04
+[2025.12.09-19.12.16:224][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/Rock_04.Rock_04
+[2025.12.09-19.12.16:225][858]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/Rock_04.Rock_04 as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_251
+[2025.12.09-19.12.17:920][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.09-19.12.17:923][960]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.12.09-19.12.17:932][960]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/Rock_04.Rock_04
+[2025.12.09-19.12.17:932][960]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/Rock_04.Rock_04
+[2025.12.09-19.12.17:936][960]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/Rock_04.Rock_04 as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_252
+[2025.12.09-19.12.25:021][473]Cmd: EDIT COPY
+[2025.12.09-19.12.25:345][495]Cmd: EDIT PASTE
+[2025.12.09-19.12.37:359][356]Cmd: EDIT COPY
+[2025.12.09-19.12.37:596][363]Cmd: EDIT PASTE
+[2025.12.09-19.12.56:299][736]Cmd: EDIT COPY
+[2025.12.09-19.12.56:525][750]Cmd: EDIT PASTE
+[2025.12.09-19.13.03:182][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-19.13.03:252][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-19.13.03:352][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.09-19.13.03:445][222]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-19.13.03:446][222]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap5D6618DF4F96C5988D8AD2B46F31972E.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-19.13.03:516][222]LogFileHelpers: All files are already saved.
+[2025.12.09-19.13.03:516][222]LogFileHelpers: Saving map 'StartMap' took 0.265
+[2025.12.09-19.13.03:523][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 342.446 ms (total: 1:56 min)
+[2025.12.09-19.13.03:591][222]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-19.13.03:591][222]LogContentValidation: Enabled validators:
+[2025.12.09-19.13.03:591][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-19.13.03:591][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-19.13.03:591][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-19.13.03:591][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-19.13.03:591][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-19.13.03:591][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-19.13.03:591][222]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-19.13.35:899][864]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.12.09-19.13.37:079][955]Cmd: TRANSACTION UNDO
+[2025.12.09-19.13.37:079][955]LogEditorTransaction: Undo Move Elements
+[2025.12.09-19.13.48:943][844]Cmd: EDIT COPY
+[2025.12.09-19.13.49:172][857]Cmd: EDIT PASTE
+[2025.12.09-19.13.54:393][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-19.13.54:489][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-19.13.54:598][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.09-19.13.54:699][222]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-19.13.54:700][222]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapFBD099F14EE1D8BF48C36A8C64085D87.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-19.13.54:742][222]LogFileHelpers: All files are already saved.
+[2025.12.09-19.13.54:742][222]LogFileHelpers: Saving map 'StartMap' took 0.254
+[2025.12.09-19.13.54:749][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 355.360 ms (total: 1:57 min)
+[2025.12.09-19.13.54:792][222]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-19.13.54:793][222]LogContentValidation: Enabled validators:
+[2025.12.09-19.13.54:793][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-19.13.54:793][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-19.13.54:793][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-19.13.54:793][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-19.13.54:793][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-19.13.54:793][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-19.13.54:793][222]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-19.14.39:751][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19223.324219
+[2025.12.09-19.14.39:896][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.14.39:896][165]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19223.458984, Update Interval: 318.051086
+[2025.12.09-19.15.11:052][596]Cmd: ACTOR SELECT ALL
+[2025.12.09-19.15.34:380][ 90]LogStreaming: Display: FlushAsyncLoading(341): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-19.15.35:273][ 90]LogStaticMesh: Display: Building static mesh SM_FadingCube (Required Memory Estimate: 0.02667 MB)...
+[2025.12.09-19.15.35:290][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_FadingCube.SM_FadingCube
+[2025.12.09-19.15.35:290][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_FadingCube.SM_FadingCube
+[2025.12.09-19.15.35:291][ 90]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_FadingCube.SM_FadingCube as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_257
+[2025.12.09-19.15.35:300][ 90]LogStaticMesh: Built static mesh [0.11s] /Game/Meshes/SciFi/SM_FadingCube.SM_FadingCube
+[2025.12.09-19.15.35:307][ 90]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/SciFi/SM_FadingCube) ...
+[2025.12.09-19.15.35:478][ 90]LogTexture: Display: Building textures: /Game/Textures/T_AlphaFade_M.T_AlphaFade_M (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2025.12.09-19.15.40:858][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.12.09-19.15.40:862][461]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2025.12.09-19.15.40:873][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_FadingCube.SM_FadingCube
+[2025.12.09-19.15.40:873][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_FadingCube.SM_FadingCube
+[2025.12.09-19.15.40:876][461]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_FadingCube.SM_FadingCube as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_258
+[2025.12.09-19.15.45:971][784]Cmd: DELETE
+[2025.12.09-19.15.45:972][784]Cmd: ACTOR DELETE
+[2025.12.09-19.15.45:978][784]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-19.15.46:206][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.09-19.15.46:208][784]LogEditorActor: Deleted 1 Actors (0.236 secs)
+[2025.12.09-19.16.13:174][552]Cmd: EDIT COPY
+[2025.12.09-19.16.13:404][571]Cmd: EDIT PASTE
+[2025.12.09-19.16.40:164][335]Cmd: EDIT COPY
+[2025.12.09-19.16.40:473][359]Cmd: EDIT PASTE
+[2025.12.09-19.17.13:899][961]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-19.17.13:955][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-19.17.14:056][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.09-19.17.14:192][961]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-19.17.14:194][961]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapACE0B9684F77C8F7080B528F46290023.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-19.17.14:256][961]LogFileHelpers: All files are already saved.
+[2025.12.09-19.17.14:256][961]LogFileHelpers: Saving map 'StartMap' took 0.301
+[2025.12.09-19.17.14:265][961]LogFileHelpers: InternalPromptForCheckoutAndSave took 365.704 ms (total: 1:57 min)
+[2025.12.09-19.17.14:341][961]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-19.17.14:341][961]LogContentValidation: Enabled validators:
+[2025.12.09-19.17.14:341][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-19.17.14:341][961]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-19.17.14:341][961]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-19.17.14:341][961]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-19.17.14:341][961]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-19.17.14:342][961]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-19.17.14:342][961]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-19.17.26:497][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-19.17.26:582][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-19.17.26:707][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.09-19.17.26:799][929]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-19.17.26:800][929]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap98F6B3E84CF8EB8959136C8146125B42.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-19.17.26:838][929]LogFileHelpers: All files are already saved.
+[2025.12.09-19.17.26:838][929]LogFileHelpers: Saving map 'StartMap' took 0.256
+[2025.12.09-19.17.26:856][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 358.686 ms (total: 1:57 min)
+[2025.12.09-19.17.26:915][929]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-19.17.26:915][929]LogContentValidation: Enabled validators:
+[2025.12.09-19.17.26:915][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-19.17.26:915][929]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-19.17.26:915][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-19.17.26:915][929]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-19.17.26:915][929]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-19.17.26:915][929]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-19.17.26:916][929]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-19.17.34:494][558]Cmd: EDIT COPY
+[2025.12.09-19.17.34:774][582]Cmd: EDIT PASTE
+[2025.12.09-19.17.44:817][391]Cmd: EDIT COPY
+[2025.12.09-19.17.45:074][413]Cmd: EDIT PASTE
+[2025.12.09-19.18.07:096][100]Cmd: EDIT COPY
+[2025.12.09-19.18.07:359][120]Cmd: EDIT PASTE
+[2025.12.09-19.18.34:105][131]Cmd: EDIT COPY
+[2025.12.09-19.18.34:323][146]Cmd: EDIT PASTE
+[2025.12.09-19.18.55:553][747]LogShaderCompilers: Display: ================================================
+[2025.12.09-19.18.55:553][747]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.09-19.18.55:553][747]LogShaderCompilers: Display: Total job queries 309, among them cache hits 121 (39.16%), DDC hits 178 (57.61%), Duplicates 3 (0.97%)
+[2025.12.09-19.18.55:553][747]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 106 distinct outputs (57.30%)
+[2025.12.09-19.18.55:553][747]LogShaderCompilers: Display: RAM used: 803.11 KiB of 819.20 MiB budget. Usage: 0.10%
+[2025.12.09-19.18.55:553][747]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.09-19.18.55:553][747]LogShaderCompilers: Display: Shaders Compiled: 7
+[2025.12.09-19.18.55:553][747]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Time job spent in pending queue: average 9.63 s, longest 32.88 s
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Job execution time: average 28.34 s, max 36.57 s
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Job life time (pending + execution): average 37.97 s, max 45.54
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Shader code size: total 58.84 KiB, numShaders 7, average 8.405 KiB, min 2.777 KiB, max 12.359 KiB
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.87 s
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Average processing rate: 0.15 jobs/sec
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Total thread time: 136.323 s
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Total thread preprocess time: 10.234 s
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Percentage time preprocessing: 7.51%
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Effective parallelization: 2.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.727184
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 24.18 sec, max 24.72 sec, min 23.64 sec)
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 21.37 sec, max 21.58 sec, min 21.17 sec)
+[2025.12.09-19.18.55:559][747]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 19.35 sec, max 19.35 sec, min 19.35 sec)
+[2025.12.09-19.18.55:560][747]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 12.93 sec, max 13.39 sec, min 12.47 sec)
+[2025.12.09-19.18.55:560][747]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 35.47% of total time (compiled    2 times, average 24.18 sec, max 24.72 sec, min 23.64 sec)
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display:                                                 FLumenCardPS - 31.36% of total time (compiled    2 times, average 21.37 sec, max 21.58 sec, min 21.17 sec)
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 18.97% of total time (compiled    2 times, average 12.93 sec, max 13.39 sec, min 12.47 sec)
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display:                                                  FHitProxyPS - 14.19% of total time (compiled    1 times, average 19.35 sec, max 19.35 sec, min 19.35 sec)
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display: === Material stats ===
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display: Materials Translated:    143
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display: Material Total Translate Time: 0.32 s
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display: Material Translation Only: 0.12 s (38%)
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display: Material Cache Hits: 22 (15%)
+[2025.12.09-19.18.55:565][747]LogShaderCompilers: Display: ================================================
+[2025.12.09-19.19.00:705][158]Cmd: EDIT COPY
+[2025.12.09-19.19.00:955][176]Cmd: EDIT PASTE
+[2025.12.09-19.19.07:956][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.09-19.19.08:021][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.09-19.19.08:180][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.09-19.19.08:376][649]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.09-19.19.08:377][649]LogSavePackage: Moving '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap9402E7B049EB8C494BD1A49938CCBA9B.tmp' to '../../../../../../Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.09-19.19.08:413][649]LogFileHelpers: All files are already saved.
+[2025.12.09-19.19.08:413][649]LogFileHelpers: Saving map 'StartMap' took 0.392
+[2025.12.09-19.19.08:432][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 475.133 ms (total: 1:58 min)
+[2025.12.09-19.19.08:485][649]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.09-19.19.08:485][649]LogContentValidation: Enabled validators:
+[2025.12.09-19.19.08:485][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.09-19.19.08:485][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.09-19.19.08:485][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.09-19.19.08:485][649]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.09-19.19.08:485][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.09-19.19.08:485][649]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.09-19.19.08:485][649]AssetCheck: /Game/StartMap Validating asset
+[2025.12.09-19.20.07:024][850]LogStreaming: Display: FlushAsyncLoading(342): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.09-19.20.07:072][850]LogStaticMesh: Display: Building static mesh SM_FanBlade (Required Memory Estimate: 0.380863 MB)...
+[2025.12.09-19.20.07:082][850]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/SciFi/SM_FanBlade.SM_FanBlade
+[2025.12.09-19.20.07:263][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_FanBlade.SM_FanBlade
+[2025.12.09-19.20.07:263][851]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_FanBlade.SM_FanBlade
+[2025.12.09-19.20.07:264][851]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_FanBlade.SM_FanBlade as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_273
+[2025.12.09-19.20.09:727][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.09-19.20.09:730][ 17]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.12.09-19.20.09:748][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_FanBlade.SM_FanBlade
+[2025.12.09-19.20.09:748][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/SciFi/SM_FanBlade.SM_FanBlade
+[2025.12.09-19.20.09:751][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/SciFi/SM_FanBlade.SM_FanBlade as actor: StaticMeshActor /Game/StartMap.StartMap:PersistentLevel.StaticMeshActor_274
+[2025.12.09-19.20.19:257][764]Cmd: DELETE
+[2025.12.09-19.20.19:257][764]Cmd: ACTOR DELETE
+[2025.12.09-19.20.19:262][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.09-19.20.19:288][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.09-19.20.19:290][764]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.12.09-19.20.32:545][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19576.083984
+[2025.12.09-19.20.32:711][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.09-19.20.32:711][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19576.238281, Update Interval: 320.680573
