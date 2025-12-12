@@ -1566,3 +1566,416 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.12-09.11.44:030][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.12-09.11.44:030][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.12-09.11.44:030][405]AssetCheck: /Game/StartMap Validating asset
+[2025.12.12-09.14.08:509][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 674.677673
+[2025.12.12-09.14.09:515][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-09.14.09:515][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 675.345886, Update Interval: 301.613220
+[2025.12.12-09.17.46:633][ 23]LogStreaming: Display: FlushAsyncLoading(332): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-09.17.46:840][ 23]LogStaticMesh: Display: Building static mesh Tank (Required Memory Estimate: 0.835727 MB)...
+[2025.12.12-09.17.46:840][ 23]LogStaticMesh: Display: Building static mesh TankTurret01 (Required Memory Estimate: 0.278838 MB)...
+[2025.12.12-09.17.46:849][ 23]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/TankTurret01.TankTurret01
+[2025.12.12-09.17.46:855][ 23]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Tank.Tank
+[2025.12.12-09.17.47:932][127]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.12.12-09.17.57:094][ 62]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.12.12-09.17.57:094][ 62]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.12-09.17.57:130][ 62]LogStreaming: Display: FlushAsyncLoading(333): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-09.17.57:882][ 62]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.12.12-09.17.57:883][ 62]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.12.12-09.17.58:456][ 62]LogSlate: Took 0.001298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.12-09.18.03:688][455]LogEditorTransaction: Undo Resize Node
+[2025.12.12-09.19.15:843][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 982.019104
+[2025.12.12-09.19.16:002][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-09.19.16:002][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 982.163757, Update Interval: 337.025055
+[2025.12.12-09.21.08:769][113]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-09.21.08:811][113]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2025.12.12-09.21.08:850][113]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter]
+[2025.12.12-09.21.08:850][113]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2025.12.12-09.21.08:903][113]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerCharacter
+[2025.12.12-09.21.08:904][113]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_PlayerCharacter2CE95C0E4F1708DC6B8D1AA1D11839BE.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2025.12.12-09.21.08:916][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.230 ms (total: 1.10 sec)
+[2025.12.12-09.21.08:977][113]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-09.21.08:977][113]LogContentValidation: Enabled validators:
+[2025.12.12-09.21.08:977][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-09.21.08:977][113]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-09.21.08:977][113]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-09.21.08:977][113]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-09.21.08:977][113]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-09.21.08:977][113]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-09.21.08:977][113]AssetCheck: /Game/Blueprints/BP_PlayerCharacter Validating asset
+[2025.12.12-09.21.09:005][113]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-09.21.09:041][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-09.21.09:092][116]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2025.12.12-09.21.09:092][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2025.12.12-09.21.09:140][116]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerCharacter
+[2025.12.12-09.21.09:141][116]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_PlayerCharacter346324E045096F023808FBACE3C92E02.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2025.12.12-09.21.09:153][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.958 ms (total: 1.21 sec)
+[2025.12.12-09.21.09:211][116]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-09.21.09:211][116]LogContentValidation: Enabled validators:
+[2025.12.12-09.21.09:211][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-09.21.09:211][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-09.21.09:211][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-09.21.09:211][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-09.21.09:211][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-09.21.09:211][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-09.21.09:211][116]AssetCheck: /Game/Blueprints/BP_PlayerCharacter Validating asset
+[2025.12.12-09.22.22:015][751]Cmd: EDIT COPY
+[2025.12.12-09.22.22:315][785]Cmd: EDIT PASTE
+[2025.12.12-09.22.54:264][134]Cmd: EDIT COPY
+[2025.12.12-09.22.54:518][147]Cmd: EDIT PASTE
+[2025.12.12-09.23.11:909][871]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.12-09.23.11:920][871]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.12-09.23.11:942][873]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.12-09.23.14:712][171]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.12.12-09.23.14:714][171]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.12-09.23.34:292][682]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.12-09.23.34:306][682]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.12-09.23.34:314][682]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.12-09.23.34:346][684]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.12-09.23.37:368][991]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.12.12-09.23.37:383][991]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.12-09.23.37:444][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.12.12-09.23.37:516][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto1
+[2025.12.12-09.23.37:517][991]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap_Auto129FCFC96437F2D249BB7A38EB98A9C6A.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/Autosaves/Game/StartMap_Auto1.umap'
+[2025.12.12-09.23.37:520][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.130
+[2025.12.12-09.23.37:520][991]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.130
+[2025.12.12-09.24.14:620][931]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Projectile
+[2025.12.12-09.24.14:740][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-09.24.14:741][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/Blueprints/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-09.24.14:741][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Blueprints/BP_Projectile]
+[2025.12.12-09.24.14:749][931]LogSavePackage: Moving output files for package: /Game/StudentWork/Blueprints/BP_Projectile
+[2025.12.12-09.24.14:749][931]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_ProjectileEDA52B624E7FB2AC5EF50F9FF945306C.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Blueprints/BP_Projectile.uasset'
+[2025.12.12-09.24.14:754][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.896 ms (total: 1.22 sec)
+[2025.12.12-09.24.14:794][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.12.12-09.24.14:821][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.12-09.24.14:846][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.12.12-09.24.14:912][931]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-09.24.14:912][931]LogContentValidation: Enabled validators:
+[2025.12.12-09.24.14:912][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-09.24.14:912][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-09.24.14:912][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-09.24.14:913][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-09.24.14:913][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-09.24.14:913][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-09.24.14:913][931]AssetCheck: /Game/StudentWork/Blueprints/BP_Projectile Validating asset
+[2025.12.12-09.24.14:951][931]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-09.24.28:464][281]Cmd: EDIT COPY
+[2025.12.12-09.24.28:737][311]Cmd: EDIT PASTE
+[2025.12.12-09.24.46:439][ 90]Cmd: EDIT COPY
+[2025.12.12-09.24.46:667][115]Cmd: EDIT PASTE
+[2025.12.12-09.24.54:400][896]Cmd: EDIT COPY
+[2025.12.12-09.24.54:639][924]Cmd: EDIT PASTE
+[2025.12.12-09.24.57:390][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-09.24.57:453][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.12-09.24.57:515][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.12.12-09.24.57:587][225]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.12-09.24.57:589][225]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap930A1CE5405518236B8519AB84343D71.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.12-09.24.57:607][225]LogFileHelpers: All files are already saved.
+[2025.12.12-09.24.57:607][225]LogFileHelpers: Saving map 'StartMap' took 0.154
+[2025.12.12-09.24.57:616][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.820 ms (total: 1.45 sec)
+[2025.12.12-09.24.57:684][225]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-09.24.57:685][225]LogContentValidation: Enabled validators:
+[2025.12.12-09.24.57:685][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-09.24.57:685][225]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-09.24.57:685][225]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-09.24.57:685][225]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-09.24.57:685][225]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-09.24.57:685][225]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-09.24.57:685][225]AssetCheck: /Game/StartMap Validating asset
+[2025.12.12-09.25.06:724][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1332.897217
+[2025.12.12-09.25.06:866][224]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-09.25.06:866][224]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1333.029297, Update Interval: 303.228241
+[2025.12.12-09.25.08:637][382]Cmd: EDIT COPY
+[2025.12.12-09.25.08:879][397]Cmd: EDIT PASTE
+[2025.12.12-09.25.18:689][386]Cmd: EDIT COPY
+[2025.12.12-09.25.18:925][401]Cmd: EDIT PASTE
+[2025.12.12-09.25.27:368][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-09.25.27:432][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.12-09.25.27:497][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.12-09.25.27:574][265]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.12-09.25.27:575][265]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap3B03B90946398F6B3989CC98BEBF523D.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.12-09.25.27:594][265]LogFileHelpers: All files are already saved.
+[2025.12.12-09.25.27:594][265]LogFileHelpers: Saving map 'StartMap' took 0.162
+[2025.12.12-09.25.27:609][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 241.420 ms (total: 1.69 sec)
+[2025.12.12-09.25.27:666][265]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-09.25.27:666][265]LogContentValidation: Enabled validators:
+[2025.12.12-09.25.27:666][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-09.25.27:666][265]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-09.25.27:666][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-09.25.27:666][265]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-09.25.27:666][265]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-09.25.27:666][265]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-09.25.27:666][265]AssetCheck: /Game/StartMap Validating asset
+[2025.12.12-09.25.32:539][783]Cmd: EDIT COPY
+[2025.12.12-09.25.33:524][887]Cmd: EDIT COPY
+[2025.12.12-09.25.33:764][914]Cmd: EDIT PASTE
+[2025.12.12-09.25.38:932][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-09.25.39:002][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.12-09.25.39:066][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.12.12-09.25.39:142][430]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.12-09.25.39:142][430]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap4D67489C4CA9FC81520F6B86AC7DC502.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.12-09.25.39:161][430]LogFileHelpers: All files are already saved.
+[2025.12.12-09.25.39:161][430]LogFileHelpers: Saving map 'StartMap' took 0.159
+[2025.12.12-09.25.39:172][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 240.361 ms (total: 1.93 sec)
+[2025.12.12-09.25.39:235][430]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-09.25.39:235][430]LogContentValidation: Enabled validators:
+[2025.12.12-09.25.39:235][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-09.25.39:235][430]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-09.25.39:235][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-09.25.39:235][430]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-09.25.39:235][430]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-09.25.39:235][430]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-09.25.39:236][430]AssetCheck: /Game/StartMap Validating asset
+[2025.12.12-09.27.17:898][684]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StudentWork/Blueprints/BP_Projectile.BP_Projectile
+[2025.12.12-09.27.17:899][684]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.12-09.28.35:234][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-09.28.35:304][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/Blueprints/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-09.28.35:304][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Blueprints/BP_Projectile]
+[2025.12.12-09.28.35:311][189]LogSavePackage: Moving output files for package: /Game/StudentWork/Blueprints/BP_Projectile
+[2025.12.12-09.28.35:311][189]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_ProjectileB21C260D49441CC7E25EB4A2289AAE92.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Blueprints/BP_Projectile.uasset'
+[2025.12.12-09.28.35:321][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.635 ms (total: 2.02 sec)
+[2025.12.12-09.28.35:365][189]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-09.28.35:365][189]LogContentValidation: Enabled validators:
+[2025.12.12-09.28.35:365][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-09.28.35:365][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-09.28.35:365][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-09.28.35:365][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-09.28.35:365][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-09.28.35:365][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-09.28.35:365][189]AssetCheck: /Game/StudentWork/Blueprints/BP_Projectile Validating asset
+[2025.12.12-09.28.35:512][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-09.28.35:549][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.12-09.28.35:632][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.12.12-09.28.35:709][199]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.12-09.28.35:709][199]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap6CDC2EC84ED43217AC4F65B0C5101C82.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.12-09.28.35:727][199]LogFileHelpers: All files are already saved.
+[2025.12.12-09.28.35:727][199]LogFileHelpers: Saving map 'StartMap' took 0.178
+[2025.12.12-09.28.35:739][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.093 ms (total: 2.24 sec)
+[2025.12.12-09.28.35:804][199]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-09.28.35:804][199]LogContentValidation: Enabled validators:
+[2025.12.12-09.28.35:804][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-09.28.35:804][199]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-09.28.35:804][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-09.28.35:804][199]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-09.28.35:804][199]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-09.28.35:804][199]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-09.28.35:804][199]AssetCheck: /Game/StartMap Validating asset
+[2025.12.12-09.29.49:249][603]LogPSOHitching: Encountered 150 PSO creation hitches so far (83 graphics, 67 compute). 0 of them were precached.
+[2025.12.12-09.30.38:229][197]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1664.403442
+[2025.12.12-09.30.38:381][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-09.30.38:381][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1664.543335, Update Interval: 342.485413
+[2025.12.12-09.30.52:825][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-09.30.52:886][322]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/Blueprints/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-09.30.52:886][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Blueprints/BP_Projectile]
+[2025.12.12-09.30.52:893][322]LogSavePackage: Moving output files for package: /Game/StudentWork/Blueprints/BP_Projectile
+[2025.12.12-09.30.52:894][322]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Projectile68DF20564438119AA9224D96CDB22766.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Blueprints/BP_Projectile.uasset'
+[2025.12.12-09.30.52:904][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.685 ms (total: 2.32 sec)
+[2025.12.12-09.30.52:972][322]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-09.30.52:972][322]LogContentValidation: Enabled validators:
+[2025.12.12-09.30.52:972][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-09.30.52:972][322]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-09.30.52:972][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-09.30.52:972][322]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-09.30.52:972][322]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-09.30.52:972][322]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-09.30.52:972][322]AssetCheck: /Game/StudentWork/Blueprints/BP_Projectile Validating asset
+[2025.12.12-09.31.20:054][ 25]LogStreaming: Display: FlushAsyncLoading(512): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-09.31.20:055][ 25]LogStaticMesh: Display: Building static mesh SM_Sphere (Required Memory Estimate: 1.522765 MB)...
+[2025.12.12-09.31.20:062][ 25]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/SciFi/SM_Sphere.SM_Sphere
+[2025.12.12-09.31.20:070][ 25]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.12-09.31.55:857][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.12-09.33.02:452][251]LogSlate: Window 'Viewport' being destroyed
+[2025.12.12-09.33.21:892][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Blueprints/BP_Projectile.BP_Projectile_C
+[2025.12.12-09.33.21:892][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Blueprints/BP_Projectile.BP_Projectile_C
+[2025.12.12-09.33.21:893][576]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Blueprints/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StartMap.StartMap:PersistentLevel.BP_Projectile_C_0
+[2025.12.12-09.33.21:894][576]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Blueprints/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StartMap.StartMap:PersistentLevel.BP_Projectile_C_0
+[2025.12.12-09.33.21:897][576]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.12.12-09.33.22:365][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.12.12-09.33.22:392][603]LogEditorActor: Deleted 0 Actors (0.055 secs)
+[2025.12.12-09.33.22:401][603]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Blueprints/BP_Projectile.BP_Projectile_C
+[2025.12.12-09.33.22:401][603]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Blueprints/BP_Projectile.BP_Projectile_C
+[2025.12.12-09.33.22:403][603]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Blueprints/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StartMap.StartMap:PersistentLevel.BP_Projectile_C_1
+[2025.12.12-09.33.22:405][603]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Blueprints/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StartMap.StartMap:PersistentLevel.BP_Projectile_C_1
+[2025.12.12-09.33.47:740][369]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-09.33.47:758][369]LogPlayLevel: [PlayLevel] Compiling BP_PlayerCharacter before play...
+[2025.12.12-09.33.47:929][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.12-09.33.47:932][369]LogPlayLevel: PlayLevel: Blueprint regeneration took 178 ms (1 blueprints)
+[2025.12.12-09.33.47:938][369]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.12.12-09.33.47:938][369]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.12.12-09.33.47:939][369]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-09.33.47:954][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015637s)
+[2025.12.12-09.33.47:954][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.015720s)
+[2025.12.12-09.33.47:982][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.12.12-09.33.47:983][369]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-09.33.47:984][369]LogPlayLevel: PIE: World Init took: (0.001831s)
+[2025.12.12-09.33.47:985][369]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.12.12-09.33.47:985][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-09.33.47:985][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-09.33.47:985][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-09.33.47:985][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-09.33.47:985][369]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-09.33.47:985][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-09.33.47:985][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-09.33.47:985][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-09.33.47:985][369]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-09.33.47:985][369]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-09.33.47:985][369]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-09.33.47:988][369]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-09.33.48:032][369]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-09.33.48:033][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-09.33.48:033][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-09.33.48:033][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-09.33.48:033][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.12.12-09.33.48:033][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.12.12-09.33.48:036][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.12.12-09.33.48:036][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.12.12-09.33.48:036][369]LogInit: FAudioDevice initialized with ID 2.
+[2025.12.12-09.33.48:036][369]LogAudio: Display: Audio Device (ID: 2) registered with world 'StartMap'.
+[2025.12.12-09.33.48:036][369]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.12-09.33.48:043][369]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-09.33.48:053][369]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-09.33.48
+[2025.12.12-09.33.48:053][369]LogWorld: Bringing up level for play took: 0.009488
+[2025.12.12-09.33.48:056][369]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.12.12-09.33.48:061][369]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-09.33.48:061][369]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-09.33.48:062][369]PIE: Server logged in
+[2025.12.12-09.33.48:064][369]PIE: Play in editor total start time 0.314 seconds.
+[2025.12.12-09.34.01:674][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-09.34.01:674][332]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-09.34.01:675][332]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-09.34.01:678][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-09.34.01:684][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-09.34.01:689][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-09.34.01:722][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-09.34.01:723][332]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.12-09.34.01:723][332]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.12.12-09.34.01:725][332]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.12.12-09.34.01:734][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.12.12-09.34.01:840][333]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.12.12-09.34.12:477][ 72]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-09.34.12:487][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.12-09.34.12:487][ 72]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-09.34.12:504][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016656s)
+[2025.12.12-09.34.12:504][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.016708s)
+[2025.12.12-09.34.12:528][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.12.12-09.34.12:530][ 72]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-09.34.12:533][ 72]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2025.12.12-09.34.12:534][ 72]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.12.12-09.34.12:534][ 72]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-09.34.12:534][ 72]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-09.34.12:534][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-09.34.12:534][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-09.34.12:534][ 72]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-09.34.12:534][ 72]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-09.34.12:534][ 72]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-09.34.12:534][ 72]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-09.34.12:534][ 72]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-09.34.12:534][ 72]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-09.34.12:534][ 72]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-09.34.12:536][ 72]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-09.34.12:572][ 72]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-09.34.12:572][ 72]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-09.34.12:572][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-09.34.12:572][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-09.34.12:573][ 72]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.12.12-09.34.12:573][ 72]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.12.12-09.34.12:576][ 72]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.12.12-09.34.12:576][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.12.12-09.34.12:576][ 72]LogInit: FAudioDevice initialized with ID 3.
+[2025.12.12-09.34.12:576][ 72]LogAudio: Display: Audio Device (ID: 3) registered with world 'StartMap'.
+[2025.12.12-09.34.12:576][ 72]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.12-09.34.12:581][ 72]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-09.34.12:590][ 72]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-09.34.12
+[2025.12.12-09.34.12:590][ 72]LogWorld: Bringing up level for play took: 0.009203
+[2025.12.12-09.34.12:593][ 72]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.12.12-09.34.12:595][ 72]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-09.34.12:596][ 72]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-09.34.12:597][ 72]PIE: Server logged in
+[2025.12.12-09.34.12:599][ 72]PIE: Play in editor total start time 0.112 seconds.
+[2025.12.12-09.34.22:244][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-09.34.22:244][800]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-09.34.22:244][800]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-09.34.22:246][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-09.34.22:251][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-09.34.22:257][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-09.34.22:288][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-09.34.22:289][800]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.12-09.34.22:289][800]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.12.12-09.34.22:291][800]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.12.12-09.34.22:300][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.12-09.34.22:400][801]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.12.12-09.34.24:429][941]Cmd: DELETE
+[2025.12.12-09.34.24:429][941]Cmd: ACTOR DELETE
+[2025.12.12-09.34.24:433][941]LogEditorActor: Deleted Actor: BP_Projectile_C
+[2025.12.12-09.34.24:465][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.12-09.34.24:468][941]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.12.12-09.34.37:136][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-09.34.37:136][861]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-09.34.37:193][861]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Projectile.BP_Projectile]
+[2025.12.12-09.34.37:193][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Projectile]
+[2025.12.12-09.34.37:193][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StudentWork/BP_Projectile" FILE="../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/BP_Projectile.uasset" SILENT=true
+[2025.12.12-09.34.37:201][861]LogSavePackage: Moving output files for package: /Game/StudentWork/BP_Projectile
+[2025.12.12-09.34.37:201][861]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Projectile1360D60F43BAF0272EECA18B9E8ED48A.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/BP_Projectile.uasset'
+[2025.12.12-09.34.37:208][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.301 ms (total: 2.40 sec)
+[2025.12.12-09.34.37:269][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.12-09.34.37:296][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.12-09.34.37:323][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.12-09.34.37:351][861]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.12-09.34.37:351][861]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-09.34.37:351][861]LogContentValidation: Enabled validators:
+[2025.12.12-09.34.37:351][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-09.34.37:351][861]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-09.34.37:353][861]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-09.34.37:353][861]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-09.34.37:353][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-09.34.37:353][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-09.34.37:353][861]AssetCheck: /Game/StudentWork/BP_Projectile Validating asset
+[2025.12.12-09.34.37:370][861]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-09.34.45:378][425]LogContentBrowser: Attempting asset rename: Blueprints -> Projectiles
+[2025.12.12-09.34.48:333][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-09.34.48:333][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/Projectiles/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-09.34.48:334][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Projectiles/BP_Projectile]
+[2025.12.12-09.34.48:341][593]LogSavePackage: Moving output files for package: /Game/StudentWork/Projectiles/BP_Projectile
+[2025.12.12-09.34.48:341][593]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_ProjectileBA6F3BE64029F914C6455A81576C1D25.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Projectiles/BP_Projectile.uasset'
+[2025.12.12-09.34.48:347][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.078 ms (total: 2.41 sec)
+[2025.12.12-09.34.48:407][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.12-09.34.48:435][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.12-09.34.48:462][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.12-09.34.48:492][593]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.12.12-09.34.48:492][593]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-09.34.48:492][593]LogContentValidation: Enabled validators:
+[2025.12.12-09.34.48:492][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-09.34.48:492][593]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-09.34.48:492][593]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-09.34.48:492][593]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-09.34.48:492][593]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-09.34.48:492][593]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-09.34.48:492][593]AssetCheck: /Game/StudentWork/Projectiles/BP_Projectile Validating asset
+[2025.12.12-09.34.48:507][593]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-09.34.50:617][721]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile_C
+[2025.12.12-09.34.50:617][721]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile_C
+[2025.12.12-09.34.50:619][721]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StartMap.StartMap:PersistentLevel.BP_Projectile_C_2
+[2025.12.12-09.34.50:620][721]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StartMap.StartMap:PersistentLevel.BP_Projectile_C_2
+[2025.12.12-09.34.51:033][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.12.12-09.34.51:034][749]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.12.12-09.34.51:043][749]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile_C
+[2025.12.12-09.34.51:043][749]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile_C
+[2025.12.12-09.34.51:045][749]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StartMap.StartMap:PersistentLevel.BP_Projectile_C_3
+[2025.12.12-09.34.51:046][749]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/StartMap.StartMap:PersistentLevel.BP_Projectile_C_3
+[2025.12.12-09.34.52:831][869]Cmd: DELETE
+[2025.12.12-09.34.52:831][869]Cmd: ACTOR DELETE
+[2025.12.12-09.34.52:835][869]LogEditorActor: Deleted Actor: BP_Projectile_C
+[2025.12.12-09.34.52:862][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.12-09.34.52:864][869]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.12.12-09.37.11:451][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2057.625488
+[2025.12.12-09.37.11:617][285]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-09.37.11:617][285]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2057.779297, Update Interval: 348.564728
+[2025.12.12-09.39.32:603][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.12-09.39.32:685][ 63]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto2
+[2025.12.12-09.39.32:687][ 63]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap_Auto2E833E56E4C1AC8D921676AA58EE862F2.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/Autosaves/Game/StartMap_Auto2.umap'
+[2025.12.12-09.39.32:690][ 63]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.113
+[2025.12.12-09.39.32:690][ 63]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.113
+[2025.12.12-09.39.32:690][ 63]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/Projectiles/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-09.39.32:748][ 63]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile]
+[2025.12.12-09.39.32:748][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Projectiles/BP_Projectile]
+[2025.12.12-09.39.32:757][ 63]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/Projectiles/BP_Projectile_Auto2
+[2025.12.12-09.39.32:757][ 63]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Projectile_Auto2B6DF2EAD4AE2B85FAE5A31BDCCC2E64B.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/Autosaves/Game/StudentWork/Projectiles/BP_Projectile_Auto2.uasset'
+[2025.12.12-09.39.32:758][ 63]LogFileHelpers: Auto-saving content packages took 0.068
