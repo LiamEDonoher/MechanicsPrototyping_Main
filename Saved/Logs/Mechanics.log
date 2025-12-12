@@ -3336,3 +3336,1419 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.12-10.20.23:008][397]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Weapons/BP_Starter_Weapon.BP_Starter_Weapon
 [2025.12.12-10.20.23:008][397]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
 [2025.12.12-10.20.23:513][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.12-10.22.20:959][987]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4767.173828
+[2025.12.12-10.22.21:099][  0]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-10.22.21:099][  0]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4767.302246, Update Interval: 320.799591
+[2025.12.12-10.24.15:361][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-10.24.15:428][857]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_Starter_Weapon] ([2] browsable assets)...
+[2025.12.12-10.24.15:428][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Starter_Weapon]
+[2025.12.12-10.24.15:437][857]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_Starter_Weapon
+[2025.12.12-10.24.15:438][857]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Starter_Weapon0B469FCD42D854B3A2D6088FD4D1A03A.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/Blueprints/Weapons/BP_Starter_Weapon.uasset'
+[2025.12.12-10.24.15:450][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.461 ms (total: 3.76 sec)
+[2025.12.12-10.24.15:486][857]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-10.24.15:486][857]LogContentValidation: Enabled validators:
+[2025.12.12-10.24.15:486][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-10.24.15:486][857]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-10.24.15:486][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-10.24.15:486][857]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-10.24.15:486][857]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-10.24.15:486][857]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-10.24.15:486][857]AssetCheck: /Game/Blueprints/Weapons/BP_Starter_Weapon Validating asset
+[2025.12.12-10.24.15:512][857]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-10.25.54:662][122]LogBlueprint: Error: [AssetLog] C:\Users\d016844p\Documents\GitHub\MechanicsPrototyping_Main\Content\Blueprints\Weapons\BP_Starter_Weapon.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.12.12-10.25.54:663][122]LogBlueprint: Error: [AssetLog] C:\Users\d016844p\Documents\GitHub\MechanicsPrototyping_Main\Content\Blueprints\Weapons\BP_Starter_Weapon.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2025.12.12-10.25.54:670][122]LogStreaming: Display: FlushAsyncLoading(514): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-10.25.54:719][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.12.12-10.26.43:351][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.12.12-10.26.46:985][875]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-10.26.46:995][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.12-10.26.47:019][875]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-10.26.47:039][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019317s)
+[2025.12.12-10.26.47:039][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.019451s)
+[2025.12.12-10.26.47:068][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.12-10.26.47:070][875]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-10.26.47:073][875]LogPlayLevel: PIE: World Init took: (0.001967s)
+[2025.12.12-10.26.47:073][875]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.12.12-10.26.47:073][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-10.26.47:073][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-10.26.47:073][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-10.26.47:073][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-10.26.47:073][875]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-10.26.47:073][875]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-10.26.47:073][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-10.26.47:074][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-10.26.47:074][875]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-10.26.47:074][875]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-10.26.47:074][875]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-10.26.47:076][875]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-10.26.47:115][875]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-10.26.47:115][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-10.26.47:115][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-10.26.47:115][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-10.26.47:116][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.12.12-10.26.47:116][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.12.12-10.26.47:117][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.12.12-10.26.47:117][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.12.12-10.26.47:117][875]LogInit: FAudioDevice initialized with ID 24.
+[2025.12.12-10.26.47:117][875]LogAudio: Display: Audio Device (ID: 24) registered with world 'StartMap'.
+[2025.12.12-10.26.47:117][875]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.12.12-10.26.47:122][875]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-10.26.47:130][875]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-10.26.47
+[2025.12.12-10.26.47:131][875]LogWorld: Bringing up level for play took: 0.008698
+[2025.12.12-10.26.47:134][875]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.12.12-10.26.47:137][875]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-10.26.47:137][875]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-10.26.47:137][875]PIE: Server logged in
+[2025.12.12-10.26.47:140][875]PIE: Play in editor total start time 0.144 seconds.
+[2025.12.12-10.27.07:150][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.27.07:150][660]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-10.27.07:150][660]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-10.27.07:152][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.27.07:153][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-10.27.07:158][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.27.07:187][660]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.12-10.27.07:188][660]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.12.12-10.27.07:188][660]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.12.12-10.27.07:190][660]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.12.12-10.27.07:198][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.27.07:201][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.12.12-10.27.07:266][661]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.12.12-10.27.19:384][613]Cmd: TRANSACTION UNDO
+[2025.12.12-10.27.19:384][613]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.12-10.27.19:655][616]Cmd: TRANSACTION UNDO
+[2025.12.12-10.27.19:655][616]LogEditorTransaction: Undo Set Location
+[2025.12.12-10.27.19:888][619]Cmd: TRANSACTION UNDO
+[2025.12.12-10.27.19:888][619]LogEditorTransaction: Undo Set Location
+[2025.12.12-10.27.20:497][662]Cmd: TRANSACTION UNDO
+[2025.12.12-10.27.20:497][662]LogEditorTransaction: Undo Set Location
+[2025.12.12-10.27.21:417][734]Cmd: TRANSACTION UNDO
+[2025.12.12-10.27.21:417][734]LogEditorTransaction: Undo Split Struct Pin
+[2025.12.12-10.27.41:430][288]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.12-10.27.41:855][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-10.27.41:921][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.12-10.27.41:985][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.12.12-10.27.42:062][321]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.12-10.27.42:063][321]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapF5095F744178E5A8D5D6CBB8D780DB52.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.12-10.27.42:080][321]LogFileHelpers: All files are already saved.
+[2025.12.12-10.27.42:080][321]LogFileHelpers: Saving map 'StartMap' took 0.159
+[2025.12.12-10.27.42:099][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 244.498 ms (total: 4.00 sec)
+[2025.12.12-10.27.42:161][321]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-10.27.42:161][321]LogContentValidation: Enabled validators:
+[2025.12.12-10.27.42:161][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-10.27.42:161][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-10.27.42:161][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-10.27.42:161][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-10.27.42:161][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-10.27.42:161][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-10.27.42:161][321]AssetCheck: /Game/StartMap Validating asset
+[2025.12.12-10.27.43:361][418]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-10.27.43:375][418]LogPlayLevel: [PlayLevel] Compiling BP_Starter_Weapon before play...
+[2025.12.12-10.27.43:443][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.12.12-10.27.43:444][418]LogPlayLevel: PlayLevel: Blueprint regeneration took 71 ms (1 blueprints)
+[2025.12.12-10.27.43:444][418]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-10.27.43:461][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016738s)
+[2025.12.12-10.27.43:461][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.016775s)
+[2025.12.12-10.27.43:490][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.12.12-10.27.43:490][418]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-10.27.43:492][418]LogPlayLevel: PIE: World Init took: (0.001684s)
+[2025.12.12-10.27.43:492][418]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.12.12-10.27.43:492][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-10.27.43:492][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-10.27.43:492][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-10.27.43:492][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-10.27.43:492][418]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-10.27.43:492][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-10.27.43:492][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-10.27.43:492][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-10.27.43:492][418]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-10.27.43:492][418]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-10.27.43:492][418]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-10.27.43:495][418]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-10.27.43:533][418]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-10.27.43:533][418]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-10.27.43:534][418]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-10.27.43:534][418]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-10.27.43:534][418]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.12.12-10.27.43:534][418]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.12.12-10.27.43:538][418]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.12.12-10.27.43:538][418]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.12.12-10.27.43:538][418]LogInit: FAudioDevice initialized with ID 25.
+[2025.12.12-10.27.43:538][418]LogAudio: Display: Audio Device (ID: 25) registered with world 'StartMap'.
+[2025.12.12-10.27.43:538][418]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.12.12-10.27.43:543][418]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-10.27.43:551][418]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-10.27.43
+[2025.12.12-10.27.43:551][418]LogWorld: Bringing up level for play took: 0.008474
+[2025.12.12-10.27.43:555][418]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.12.12-10.27.43:556][418]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-10.27.43:556][418]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-10.27.43:559][418]PIE: Server logged in
+[2025.12.12-10.27.43:560][418]PIE: Play in editor total start time 0.188 seconds.
+[2025.12.12-10.28.00:990][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.28.00:990][665]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-10.28.00:990][665]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-10.28.00:993][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.28.00:995][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-10.28.01:000][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.28.01:028][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.28.01:029][665]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.12.12-10.28.01:029][665]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2025.12.12-10.28.01:031][665]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2025.12.12-10.28.01:040][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.12-10.28.01:103][666]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.12.12-10.28.14:501][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5120.742676
+[2025.12.12-10.28.14:633][659]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-10.28.14:633][659]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5120.861816, Update Interval: 353.032623
+[2025.12.12-10.28.53:303][665]LogEditorTransaction: Undo Move Node
+[2025.12.12-10.28.53:642][670]LogEditorTransaction: Undo Create Pin Link
+[2025.12.12-10.28.53:966][679]LogEditorTransaction: Undo Move Node
+[2025.12.12-10.28.54:334][703]LogEditorTransaction: Undo Delete current selection
+[2025.12.12-10.28.54:750][732]LogEditorTransaction: Undo Delete current selection
+[2025.12.12-10.28.55:172][760]LogEditorTransaction: Undo Delete current selection
+[2025.12.12-10.29.00:868][205]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-10.29.00:884][205]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2025.12.12-10.29.00:950][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.12-10.29.00:953][205]LogPlayLevel: PlayLevel: Blueprint regeneration took 74 ms (1 blueprints)
+[2025.12.12-10.29.00:953][205]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-10.29.00:970][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017257s)
+[2025.12.12-10.29.00:971][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.017299s)
+[2025.12.12-10.29.00:999][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.12-10.29.01:000][205]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-10.29.01:002][205]LogPlayLevel: PIE: World Init took: (0.001691s)
+[2025.12.12-10.29.01:002][205]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.12.12-10.29.01:002][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-10.29.01:002][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-10.29.01:002][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-10.29.01:002][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-10.29.01:002][205]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-10.29.01:003][205]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-10.29.01:003][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-10.29.01:003][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-10.29.01:003][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-10.29.01:003][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-10.29.01:003][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-10.29.01:005][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-10.29.01:043][205]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-10.29.01:044][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-10.29.01:044][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-10.29.01:044][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-10.29.01:044][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.12.12-10.29.01:044][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.12.12-10.29.01:047][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.12.12-10.29.01:047][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.12.12-10.29.01:047][205]LogInit: FAudioDevice initialized with ID 26.
+[2025.12.12-10.29.01:047][205]LogAudio: Display: Audio Device (ID: 26) registered with world 'StartMap'.
+[2025.12.12-10.29.01:047][205]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.12.12-10.29.01:052][205]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-10.29.01:062][205]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-10.29.01
+[2025.12.12-10.29.01:062][205]LogWorld: Bringing up level for play took: 0.008920
+[2025.12.12-10.29.01:065][205]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.12.12-10.29.01:066][205]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-10.29.01:066][205]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-10.29.01:068][205]PIE: Server logged in
+[2025.12.12-10.29.01:070][205]PIE: Play in editor total start time 0.192 seconds.
+[2025.12.12-10.29.03:218][402]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=600.00 Y=0.00 Z=0.00 Location: X=-294.20 Y=-750.35 Z=81.19 Normal: X=-0.36 Y=-0.81 Z=-0.46 PenetrationDepth:20.577 Actor:BP_Projectile_C_4 Component:Collider BoneName:None (0 other events since notify)
+[2025.12.12-10.29.06:399][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.29.06:399][610]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-10.29.06:399][610]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-10.29.06:401][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.29.06:403][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-10.29.06:408][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.29.06:438][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.29.06:438][610]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.12.12-10.29.06:438][610]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2025.12.12-10.29.06:440][610]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2025.12.12-10.29.06:449][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.12.12-10.29.06:509][611]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.12.12-10.29.07:552][691]Cmd: TRANSACTION UNDO
+[2025.12.12-10.29.07:552][691]LogEditorTransaction: Undo Edit Player Start Tag
+[2025.12.12-10.29.15:880][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-10.29.15:936][305]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/Projectiles/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-10.29.15:986][305]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile]
+[2025.12.12-10.29.15:986][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Projectiles/BP_Projectile]
+[2025.12.12-10.29.15:997][305]LogSavePackage: Moving output files for package: /Game/StudentWork/Projectiles/BP_Projectile
+[2025.12.12-10.29.15:997][305]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_ProjectileBDF30E8F4731174AEF3A378123DD6BC7.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Projectiles/BP_Projectile.uasset'
+[2025.12.12-10.29.16:010][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.137 ms (total: 4.14 sec)
+[2025.12.12-10.29.16:071][305]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-10.29.16:072][305]LogContentValidation: Enabled validators:
+[2025.12.12-10.29.16:072][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-10.29.16:072][305]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-10.29.16:072][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-10.29.16:072][305]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-10.29.16:072][305]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-10.29.16:072][305]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-10.29.16:072][305]AssetCheck: /Game/StudentWork/Projectiles/BP_Projectile Validating asset
+[2025.12.12-10.32.06:153][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.12-10.32.07:547][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-10.32.07:610][868]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/Projectiles/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-10.32.07:685][868]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile]
+[2025.12.12-10.32.07:685][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Projectiles/BP_Projectile]
+[2025.12.12-10.32.07:697][868]LogSavePackage: Moving output files for package: /Game/StudentWork/Projectiles/BP_Projectile
+[2025.12.12-10.32.07:697][868]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_ProjectileF3CEE6BA41E1430271450FA4C910E7AD.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Projectiles/BP_Projectile.uasset'
+[2025.12.12-10.32.07:710][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.453 ms (total: 4.30 sec)
+[2025.12.12-10.32.07:773][868]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-10.32.07:773][868]LogContentValidation: Enabled validators:
+[2025.12.12-10.32.07:773][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-10.32.07:773][868]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-10.32.07:773][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-10.32.07:773][868]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-10.32.07:773][868]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-10.32.07:773][868]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-10.32.07:774][868]AssetCheck: /Game/StudentWork/Projectiles/BP_Projectile Validating asset
+[2025.12.12-10.32.52:346][585]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-10.32.52:366][585]LogPlayLevel: [PlayLevel] Compiling BP_Starter_Weapon before play...
+[2025.12.12-10.32.52:367][585]LogPlayLevel: [PlayLevel]   Compiling BP_PlayerCharacter as a dependent...
+[2025.12.12-10.32.52:550][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.12-10.32.52:552][585]LogPlayLevel: PlayLevel: Blueprint regeneration took 193 ms (2 blueprints)
+[2025.12.12-10.32.52:552][585]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-10.32.52:569][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016556s)
+[2025.12.12-10.32.52:569][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.016601s)
+[2025.12.12-10.32.52:597][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.12.12-10.32.52:598][585]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-10.32.52:600][585]LogPlayLevel: PIE: World Init took: (0.001811s)
+[2025.12.12-10.32.52:601][585]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.12.12-10.32.52:601][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-10.32.52:601][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-10.32.52:601][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-10.32.52:601][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-10.32.52:601][585]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-10.32.52:601][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-10.32.52:601][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-10.32.52:601][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-10.32.52:601][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-10.32.52:601][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-10.32.52:601][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-10.32.52:603][585]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-10.32.52:640][585]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-10.32.52:640][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-10.32.52:640][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-10.32.52:640][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-10.32.52:641][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.12.12-10.32.52:641][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.12.12-10.32.52:644][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.12.12-10.32.52:644][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.12.12-10.32.52:644][585]LogInit: FAudioDevice initialized with ID 27.
+[2025.12.12-10.32.52:645][585]LogAudio: Display: Audio Device (ID: 27) registered with world 'StartMap'.
+[2025.12.12-10.32.52:645][585]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.12.12-10.32.52:721][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.32.52:721][585]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-10.32.52:730][585]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-10.32.52
+[2025.12.12-10.32.52:731][585]LogWorld: Bringing up level for play took: 0.009317
+[2025.12.12-10.32.52:734][585]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.12.12-10.32.52:736][585]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-10.32.52:736][585]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-10.32.52:740][585]PIE: Server logged in
+[2025.12.12-10.32.52:743][585]PIE: Play in editor total start time 0.385 seconds.
+[2025.12.12-10.32.53:064][586]LogCsvProfiler: Display: Metadata set : systemresolution.resx="3834"
+[2025.12.12-10.32.53:065][586]LogCsvProfiler: Display: Metadata set : systemresolution.resy="2048"
+[2025.12.12-10.33.00:860][920]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=599.91 Y=10.65 Z=0.00 Location: X=1291.09 Y=-667.21 Z=82.82 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:97.558 Actor:BP_Projectile_C_17 Component:Collider BoneName:None (0 other events since notify)
+[2025.12.12-10.33.02:507][994]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=442.38 Y=405.34 Z=0.00 Location: X=1681.19 Y=-667.27 Z=82.82 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:33.027 Actor:BP_Projectile_C_19 Component:Collider BoneName:None (0 other events since notify)
+[2025.12.12-10.33.16:769][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.33.16:769][447]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-10.33.16:769][447]LogSlate: Window 'Mechanics Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.12.12-10.33.16:778][447]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-10.33.16:780][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.33.16:781][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-10.33.16:787][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.33.16:815][447]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.12.12-10.33.16:815][447]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2025.12.12-10.33.16:818][447]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2025.12.12-10.33.16:825][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.12.12-10.33.17:072][448]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.12.12-10.33.30:144][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-10.33.30:216][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_Starter_Weapon] ([2] browsable assets)...
+[2025.12.12-10.33.30:216][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Starter_Weapon]
+[2025.12.12-10.33.30:225][ 61]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_Starter_Weapon
+[2025.12.12-10.33.30:225][ 61]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Starter_Weapon9795DAD645C2E6424EBC9DB1D1319A82.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/Blueprints/Weapons/BP_Starter_Weapon.uasset'
+[2025.12.12-10.33.30:238][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.548 ms (total: 4.39 sec)
+[2025.12.12-10.33.30:295][ 61]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-10.33.30:295][ 61]LogContentValidation: Enabled validators:
+[2025.12.12-10.33.30:295][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-10.33.30:295][ 61]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-10.33.30:295][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-10.33.30:295][ 61]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-10.33.30:295][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-10.33.30:295][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-10.33.30:295][ 61]AssetCheck: /Game/Blueprints/Weapons/BP_Starter_Weapon Validating asset
+[2025.12.12-10.34.20:757][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-10.34.20:831][233]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/Projectiles/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-10.34.20:918][233]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile]
+[2025.12.12-10.34.20:918][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Projectiles/BP_Projectile]
+[2025.12.12-10.34.20:928][233]LogSavePackage: Moving output files for package: /Game/StudentWork/Projectiles/BP_Projectile
+[2025.12.12-10.34.20:930][233]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_ProjectileC08BB6AF4210098DBBCAD9942BBF006D.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Projectiles/BP_Projectile.uasset'
+[2025.12.12-10.34.20:945][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.519 ms (total: 4.58 sec)
+[2025.12.12-10.34.21:015][233]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-10.34.21:015][233]LogContentValidation: Enabled validators:
+[2025.12.12-10.34.21:015][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-10.34.21:015][233]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-10.34.21:015][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-10.34.21:015][233]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-10.34.21:015][233]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-10.34.21:015][233]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-10.34.21:015][233]AssetCheck: /Game/StudentWork/Projectiles/BP_Projectile Validating asset
+[2025.12.12-10.35.04:122][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5530.330078
+[2025.12.12-10.35.04:265][315]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-10.35.04:265][315]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5530.459961, Update Interval: 314.506042
+[2025.12.12-10.38.25:628][165]LogEditorTransaction: Undo Delete current selection
+[2025.12.12-10.40.24:641][206]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-10.40.24:658][206]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2025.12.12-10.40.24:663][206]LogPlayLevel: [PlayLevel]   Compiling BP_Starter_Weapon as a dependent...
+[2025.12.12-10.40.24:666][206]LogBlueprint: Error: [AssetLog] C:\Users\d016844p\Documents\GitHub\MechanicsPrototyping_Main\Content\Blueprints\Weapons\BP_Starter_Weapon.uasset: [Compiler] This blueprint (self) is not a CalibrationPointComponent, therefore ' Target ' must have a connection.
+[2025.12.12-10.40.24:776][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.12-10.40.24:777][206]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (2 blueprints)
+[2025.12.12-10.40.24:777][206]BlueprintLog: Warning: Blueprint failed to compile:  BP_Starter_Weapon
+[2025.12.12-10.40.29:949][206]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.12.12-10.40.34:036][478]LogSlate: Window 'Message Log' being destroyed
+[2025.12.12-10.40.34:048][478]LogSlate: Window 'Message Log' being destroyed
+[2025.12.12-10.40.34:879][542]LogBlueprint: Error: [AssetLog] C:\Users\d016844p\Documents\GitHub\MechanicsPrototyping_Main\Content\Blueprints\Weapons\BP_Starter_Weapon.uasset: [Compiler] This blueprint (self) is not a CalibrationPointComponent, therefore ' Target ' must have a connection.
+[2025.12.12-10.40.34:929][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.12.12-10.41.08:213][972]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5894.430664
+[2025.12.12-10.41.08:335][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-10.41.08:335][983]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5894.542480, Update Interval: 334.401062
+[2025.12.12-10.41.42:974][428]LogEditorTransaction: Undo Move Node
+[2025.12.12-10.41.43:364][433]LogEditorTransaction: Undo Delete current selection
+[2025.12.12-10.43.47:967][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-10.43.48:027][788]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_Starter_Weapon] ([2] browsable assets)...
+[2025.12.12-10.43.48:027][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Starter_Weapon]
+[2025.12.12-10.43.48:036][788]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_Starter_Weapon
+[2025.12.12-10.43.48:037][788]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Starter_WeaponCCE72A5C41D01FF1E1D9CBA50DA3C877.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/Blueprints/Weapons/BP_Starter_Weapon.uasset'
+[2025.12.12-10.43.48:049][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.155 ms (total: 4.66 sec)
+[2025.12.12-10.43.48:093][788]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-10.43.48:093][788]LogContentValidation: Enabled validators:
+[2025.12.12-10.43.48:093][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-10.43.48:093][788]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-10.43.48:093][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-10.43.48:093][788]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-10.43.48:093][788]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-10.43.48:093][788]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-10.43.48:093][788]AssetCheck: /Game/Blueprints/Weapons/BP_Starter_Weapon Validating asset
+[2025.12.12-10.43.50:076][926]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-10.43.50:089][926]LogPlayLevel: [PlayLevel] Compiling BP_Starter_Weapon before play...
+[2025.12.12-10.43.50:170][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.12-10.43.50:175][926]LogPlayLevel: PlayLevel: Blueprint regeneration took 88 ms (1 blueprints)
+[2025.12.12-10.43.50:175][926]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-10.43.50:193][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017830s)
+[2025.12.12-10.43.50:193][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.017872s)
+[2025.12.12-10.43.50:218][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.12.12-10.43.50:220][926]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-10.43.50:222][926]LogPlayLevel: PIE: World Init took: (0.002005s)
+[2025.12.12-10.43.50:222][926]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.12.12-10.43.50:222][926]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-10.43.50:222][926]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-10.43.50:222][926]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-10.43.50:222][926]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-10.43.50:222][926]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-10.43.50:222][926]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-10.43.50:222][926]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-10.43.50:222][926]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-10.43.50:222][926]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-10.43.50:222][926]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-10.43.50:222][926]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-10.43.50:226][926]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-10.43.50:266][926]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-10.43.50:266][926]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-10.43.50:266][926]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-10.43.50:266][926]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-10.43.50:267][926]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.12.12-10.43.50:267][926]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.12.12-10.43.50:270][926]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.12.12-10.43.50:270][926]LogInit: FAudioDevice initialized with ID 28.
+[2025.12.12-10.43.50:270][926]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.12.12-10.43.50:270][926]LogAudio: Display: Audio Device (ID: 28) registered with world 'StartMap'.
+[2025.12.12-10.43.50:270][926]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.12.12-10.43.50:284][926]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-10.43.50:294][926]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-10.43.50
+[2025.12.12-10.43.50:295][926]LogWorld: Bringing up level for play took: 0.009931
+[2025.12.12-10.43.50:298][926]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.12.12-10.43.50:300][926]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-10.43.50:301][926]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-10.43.50:302][926]PIE: Server logged in
+[2025.12.12-10.43.50:303][926]PIE: Play in editor total start time 0.217 seconds.
+[2025.12.12-10.44.04:565][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.44.04:565][ 69]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-10.44.04:565][ 69]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-10.44.04:567][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.44.04:569][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-10.44.04:574][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.44.04:604][ 69]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.12-10.44.04:604][ 69]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.12.12-10.44.04:604][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2025.12.12-10.44.04:606][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2025.12.12-10.44.04:612][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.44.04:616][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.12-10.44.04:680][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.12.12-10.44.12:073][591]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-10.44.12:084][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.12-10.44.12:084][591]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-10.44.12:101][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016846s)
+[2025.12.12-10.44.12:101][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.016899s)
+[2025.12.12-10.44.12:128][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.12.12-10.44.12:130][591]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-10.44.12:132][591]LogPlayLevel: PIE: World Init took: (0.001742s)
+[2025.12.12-10.44.12:133][591]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.12.12-10.44.12:133][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-10.44.12:133][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-10.44.12:133][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-10.44.12:133][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-10.44.12:133][591]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-10.44.12:133][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-10.44.12:133][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-10.44.12:133][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-10.44.12:133][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-10.44.12:133][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-10.44.12:133][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-10.44.12:136][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-10.44.12:176][591]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-10.44.12:176][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-10.44.12:177][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-10.44.12:177][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-10.44.12:177][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.12.12-10.44.12:177][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.12.12-10.44.12:180][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.12.12-10.44.12:180][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.12.12-10.44.12:180][591]LogInit: FAudioDevice initialized with ID 29.
+[2025.12.12-10.44.12:180][591]LogAudio: Display: Audio Device (ID: 29) registered with world 'StartMap'.
+[2025.12.12-10.44.12:180][591]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.12.12-10.44.12:184][591]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-10.44.12:193][591]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-10.44.12
+[2025.12.12-10.44.12:193][591]LogWorld: Bringing up level for play took: 0.009365
+[2025.12.12-10.44.12:196][591]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.12.12-10.44.12:198][591]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-10.44.12:198][591]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-10.44.12:199][591]PIE: Server logged in
+[2025.12.12-10.44.12:202][591]PIE: Play in editor total start time 0.119 seconds.
+[2025.12.12-10.44.14:504][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.44.14:504][764]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-10.44.14:504][764]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-10.44.14:507][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.44.14:510][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-10.44.14:516][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.44.14:547][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.44.14:547][764]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.12.12-10.44.14:547][764]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2025.12.12-10.44.14:549][764]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2025.12.12-10.44.14:559][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.12.12-10.44.14:620][765]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.12.12-10.46.20:586][126]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-10.46.20:605][126]LogPlayLevel: [PlayLevel] Compiling BP_Starter_Weapon before play...
+[2025.12.12-10.46.20:693][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.12-10.46.20:701][126]LogPlayLevel: PlayLevel: Blueprint regeneration took 104 ms (1 blueprints)
+[2025.12.12-10.46.20:732][126]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-10.46.20:749][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016463s)
+[2025.12.12-10.46.20:749][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.016555s)
+[2025.12.12-10.46.20:780][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.12-10.46.20:781][126]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-10.46.20:782][126]LogPlayLevel: PIE: World Init took: (0.001753s)
+[2025.12.12-10.46.20:783][126]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.12.12-10.46.20:783][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-10.46.20:783][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-10.46.20:783][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-10.46.20:783][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-10.46.20:783][126]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-10.46.20:783][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-10.46.20:783][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-10.46.20:783][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-10.46.20:783][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-10.46.20:783][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-10.46.20:783][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-10.46.20:786][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-10.46.20:823][126]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-10.46.20:823][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-10.46.20:823][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-10.46.20:823][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-10.46.20:824][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.12.12-10.46.20:824][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.12.12-10.46.20:826][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.12.12-10.46.20:827][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.12.12-10.46.20:827][126]LogInit: FAudioDevice initialized with ID 30.
+[2025.12.12-10.46.20:827][126]LogAudio: Display: Audio Device (ID: 30) registered with world 'StartMap'.
+[2025.12.12-10.46.20:827][126]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.12.12-10.46.20:833][126]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-10.46.20:841][126]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-10.46.20
+[2025.12.12-10.46.20:841][126]LogWorld: Bringing up level for play took: 0.008737
+[2025.12.12-10.46.20:846][126]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.12.12-10.46.20:848][126]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-10.46.20:848][126]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-10.46.20:849][126]PIE: Server logged in
+[2025.12.12-10.46.20:852][126]PIE: Play in editor total start time 0.254 seconds.
+[2025.12.12-10.46.28:552][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.46.28:553][710]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-10.46.28:553][710]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-10.46.28:556][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.46.28:559][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-10.46.28:565][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.46.28:596][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.46.28:597][710]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.12.12-10.46.28:597][710]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2025.12.12-10.46.28:599][710]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2025.12.12-10.46.28:606][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.12.12-10.46.28:671][711]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.12.12-10.46.36:216][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-10.46.36:281][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_Starter_Weapon] ([2] browsable assets)...
+[2025.12.12-10.46.36:281][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Starter_Weapon]
+[2025.12.12-10.46.36:290][235]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_Starter_Weapon
+[2025.12.12-10.46.36:291][235]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Starter_Weapon6D8BB04344E0C9B24D1ECAA8F1F526A0.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/Blueprints/Weapons/BP_Starter_Weapon.uasset'
+[2025.12.12-10.46.36:305][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.222 ms (total: 4.75 sec)
+[2025.12.12-10.46.36:367][235]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-10.46.36:367][235]LogContentValidation: Enabled validators:
+[2025.12.12-10.46.36:367][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-10.46.36:367][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-10.46.36:367][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-10.46.36:367][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-10.46.36:367][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-10.46.36:367][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-10.46.36:367][235]AssetCheck: /Game/Blueprints/Weapons/BP_Starter_Weapon Validating asset
+[2025.12.12-10.46.37:959][333]Cmd: TRANSACTION UNDO
+[2025.12.12-10.46.37:959][333]LogEditorTransaction: Undo Modify Component(s)
+[2025.12.12-10.46.56:959][532]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-10.46.56:972][532]LogPlayLevel: [PlayLevel] Compiling BP_Starter_Weapon before play...
+[2025.12.12-10.46.57:049][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.12.12-10.46.57:053][532]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2025.12.12-10.46.57:053][532]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-10.46.57:071][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017028s)
+[2025.12.12-10.46.57:071][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.017065s)
+[2025.12.12-10.46.57:098][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.12.12-10.46.57:099][532]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-10.46.57:100][532]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2025.12.12-10.46.57:101][532]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.12.12-10.46.57:101][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-10.46.57:101][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-10.46.57:101][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-10.46.57:101][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-10.46.57:101][532]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-10.46.57:101][532]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-10.46.57:101][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-10.46.57:101][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-10.46.57:101][532]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-10.46.57:101][532]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-10.46.57:101][532]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-10.46.57:103][532]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-10.46.57:140][532]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-10.46.57:140][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-10.46.57:140][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-10.46.57:140][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-10.46.57:141][532]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.12.12-10.46.57:141][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.12.12-10.46.57:143][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.12.12-10.46.57:144][532]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.12.12-10.46.57:144][532]LogInit: FAudioDevice initialized with ID 31.
+[2025.12.12-10.46.57:144][532]LogAudio: Display: Audio Device (ID: 31) registered with world 'StartMap'.
+[2025.12.12-10.46.57:144][532]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.12.12-10.46.57:150][532]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-10.46.57:159][532]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-10.46.57
+[2025.12.12-10.46.57:159][532]LogWorld: Bringing up level for play took: 0.009513
+[2025.12.12-10.46.57:162][532]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.12.12-10.46.57:164][532]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-10.46.57:165][532]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-10.46.57:166][532]PIE: Server logged in
+[2025.12.12-10.46.57:168][532]PIE: Play in editor total start time 0.198 seconds.
+[2025.12.12-10.46.58:738][639]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=342.53 Z=0.00 Location: X=-609.92 Y=-844.84 Z=81.03 Normal: X=-0.72 Y=-0.53 Z=-0.45 PenetrationDepth:6.446 Actor:BP_Projectile_C_4 Component:Collider BoneName:None (0 other events since notify)
+[2025.12.12-10.47.02:202][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.47.02:202][846]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-10.47.02:202][846]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-10.47.02:204][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.47.02:206][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-10.47.02:211][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.47.02:240][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.47.02:241][846]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.12.12-10.47.02:241][846]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2025.12.12-10.47.02:243][846]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2025.12.12-10.47.02:252][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.12.12-10.47.02:338][847]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.12.12-10.47.23:439][273]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6269.642578
+[2025.12.12-10.47.23:595][285]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-10.47.23:595][285]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6269.786133, Update Interval: 320.891144
+[2025.12.12-10.47.39:351][448]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-10.47.39:370][448]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2025.12.12-10.47.39:445][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.12.12-10.47.39:448][448]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2025.12.12-10.47.39:448][448]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-10.47.39:464][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016002s)
+[2025.12.12-10.47.39:464][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.016041s)
+[2025.12.12-10.47.39:494][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.12.12-10.47.39:495][448]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-10.47.39:497][448]LogPlayLevel: PIE: World Init took: (0.001794s)
+[2025.12.12-10.47.39:498][448]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.12.12-10.47.39:498][448]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-10.47.39:498][448]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-10.47.39:498][448]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-10.47.39:498][448]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-10.47.39:498][448]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-10.47.39:498][448]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-10.47.39:498][448]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-10.47.39:498][448]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-10.47.39:498][448]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-10.47.39:498][448]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-10.47.39:498][448]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-10.47.39:500][448]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-10.47.39:537][448]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-10.47.39:537][448]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-10.47.39:537][448]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-10.47.39:538][448]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-10.47.39:538][448]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.12.12-10.47.39:538][448]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.12.12-10.47.39:541][448]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.12.12-10.47.39:541][448]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.12.12-10.47.39:541][448]LogInit: FAudioDevice initialized with ID 32.
+[2025.12.12-10.47.39:541][448]LogAudio: Display: Audio Device (ID: 32) registered with world 'StartMap'.
+[2025.12.12-10.47.39:541][448]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.12.12-10.47.39:553][448]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-10.47.39:561][448]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-10.47.39
+[2025.12.12-10.47.39:561][448]LogWorld: Bringing up level for play took: 0.008826
+[2025.12.12-10.47.39:565][448]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.12.12-10.47.39:567][448]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-10.47.39:567][448]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-10.47.39:569][448]PIE: Server logged in
+[2025.12.12-10.47.39:571][448]PIE: Play in editor total start time 0.207 seconds.
+[2025.12.12-10.47.40:580][533]LogBlueprintUserMessages: [BP_Projectile_C_11] Hit
+[2025.12.12-10.47.40:659][540]LogBlueprintUserMessages: [BP_Projectile_C_0] Hit
+[2025.12.12-10.47.41:321][600]LogBlueprintUserMessages: [BP_Projectile_C_1] Hit
+[2025.12.12-10.47.41:321][600]LogBlueprintUserMessages: [BP_Projectile_C_0] Hit
+[2025.12.12-10.47.41:695][633]LogBlueprintUserMessages: [BP_Projectile_C_2] Hit
+[2025.12.12-10.47.41:874][649]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=-22.06 Z=0.00 Location: X=-606.58 Y=-685.98 Z=81.03 Normal: X=-0.89 Y=0.00 Z=-0.45 PenetrationDepth:6.446 Actor:BP_Projectile_C_2 Component:Collider BoneName:None (0 other events since notify)
+[2025.12.12-10.47.41:874][649]LogBlueprintUserMessages: [BP_Projectile_C_2] Hit
+[2025.12.12-10.47.41:874][649]LogBlueprintUserMessages: [BP_Projectile_C_2] Hit
+[2025.12.12-10.47.41:874][649]LogBlueprintUserMessages: [BP_Projectile_C_0] Hit
+[2025.12.12-10.47.41:885][650]LogBlueprintUserMessages: [BP_Projectile_C_0] Hit
+[2025.12.12-10.47.41:896][651]LogBlueprintUserMessages: [BP_Projectile_C_2] Hit
+[2025.12.12-10.47.41:907][652]LogBlueprintUserMessages: [BP_Projectile_C_2] Hit
+[2025.12.12-10.47.41:918][653]LogBlueprintUserMessages: [BP_Projectile_C_2] Hit
+[2025.12.12-10.47.41:928][654]LogBlueprintUserMessages: [BP_Projectile_C_2] Hit
+[2025.12.12-10.47.41:943][655]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.41:943][655]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.41:955][656]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.41:966][657]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.41:978][658]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.41:990][659]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:001][660]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:011][661]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:022][662]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:035][663]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:046][664]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:059][665]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:071][666]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:082][667]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:094][668]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:105][669]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:115][670]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:126][671]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:137][672]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:149][673]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:160][674]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:173][675]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:184][676]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:195][677]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:207][678]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:218][679]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:228][680]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:240][681]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:250][682]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:261][683]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:273][684]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:284][685]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:296][686]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:307][687]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:318][688]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:328][689]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:340][690]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:351][691]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:363][692]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:374][693]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:385][694]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:398][695]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:409][696]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:422][697]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:435][698]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:449][699]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:462][700]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:473][701]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:485][702]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:498][703]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:510][704]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:522][705]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.42:534][706]LogBlueprintUserMessages: [BP_Projectile_C_3] Hit
+[2025.12.12-10.47.43:268][771]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=-177.58 Z=0.00 Location: X=-910.75 Y=-766.93 Z=81.03 Normal: X=-0.82 Y=0.35 Z=-0.45 PenetrationDepth:6.446 Actor:BP_Projectile_C_4 Component:Collider BoneName:None (50 other events since notify)
+[2025.12.12-10.47.43:268][771]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:268][771]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:268][771]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:270][771]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:281][772]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:281][772]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:292][773]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:292][773]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:302][774]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:314][775]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:324][776]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:335][777]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:347][778]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:358][779]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:370][780]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:380][781]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:391][782]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:402][783]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:413][784]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:424][785]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:434][786]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:445][787]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:456][788]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:467][789]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:479][790]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:489][791]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:501][792]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:513][793]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:524][794]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:536][795]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:546][796]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:557][797]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:567][798]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:578][799]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:588][800]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:599][801]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:610][802]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:621][803]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:633][804]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:643][805]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:654][806]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:665][807]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:676][808]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:686][809]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:697][810]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:708][811]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:719][812]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.43:730][813]LogBlueprintUserMessages: [BP_Projectile_C_4] Hit
+[2025.12.12-10.47.44:229][857]LogBlueprintUserMessages: [BP_Projectile_C_5] Hit
+[2025.12.12-10.47.44:229][857]LogBlueprintUserMessages: [BP_Projectile_C_5] Hit
+[2025.12.12-10.47.45:055][931]LogBlueprintUserMessages: [BP_Projectile_C_6] Hit
+[2025.12.12-10.47.45:055][931]LogBlueprintUserMessages: [BP_Projectile_C_6] Hit
+[2025.12.12-10.47.45:336][956]LogBlueprintUserMessages: [BP_Projectile_C_7] Hit
+[2025.12.12-10.47.45:336][956]LogBlueprintUserMessages: [BP_Projectile_C_7] Hit
+[2025.12.12-10.47.45:602][980]LogBlueprintUserMessages: [BP_Projectile_C_8] Hit
+[2025.12.12-10.47.45:602][980]LogBlueprintUserMessages: [BP_Projectile_C_8] Hit
+[2025.12.12-10.47.45:814][999]LogBlueprintUserMessages: [BP_Projectile_C_9] Hit
+[2025.12.12-10.47.45:814][999]LogBlueprintUserMessages: [BP_Projectile_C_9] Hit
+[2025.12.12-10.47.46:067][ 22]LogBlueprintUserMessages: [BP_Projectile_C_10] Hit
+[2025.12.12-10.47.46:114][ 26]LogBlueprintUserMessages: [BP_Projectile_C_10] Hit
+[2025.12.12-10.47.46:114][ 26]LogBlueprintUserMessages: [BP_Projectile_C_9] Hit
+[2025.12.12-10.47.46:376][ 49]LogBlueprintUserMessages: [BP_Projectile_C_12] Hit
+[2025.12.12-10.47.46:376][ 49]LogBlueprintUserMessages: [BP_Projectile_C_12] Hit
+[2025.12.12-10.47.46:388][ 50]LogBlueprintUserMessages: [BP_Projectile_C_12] Hit
+[2025.12.12-10.47.46:398][ 51]LogBlueprintUserMessages: [BP_Projectile_C_12] Hit
+[2025.12.12-10.47.46:410][ 52]LogBlueprintUserMessages: [BP_Projectile_C_12] Hit
+[2025.12.12-10.47.46:421][ 53]LogBlueprintUserMessages: [BP_Projectile_C_12] Hit
+[2025.12.12-10.47.46:646][ 73]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:646][ 73]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:646][ 73]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:657][ 74]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=579.15 Y=156.81 Z=0.00 Location: X=-1969.33 Y=-436.09 Z=80.81 Normal: X=-0.77 Y=0.46 Z=-0.44 PenetrationDepth:5.389 Actor:BP_Projectile_C_13 Component:Collider BoneName:None (1 other events since notify)
+[2025.12.12-10.47.46:657][ 74]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:669][ 75]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:680][ 76]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:680][ 76]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:691][ 77]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:691][ 77]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:691][ 77]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:703][ 78]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:703][ 78]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:703][ 78]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:714][ 79]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:714][ 79]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:714][ 79]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:725][ 80]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:725][ 80]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:725][ 80]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:735][ 81]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:736][ 81]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:736][ 81]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:746][ 82]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:746][ 82]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:747][ 82]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:757][ 83]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:757][ 83]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:758][ 83]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:768][ 84]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:768][ 84]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:768][ 84]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:779][ 85]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:779][ 85]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:779][ 85]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:792][ 86]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:792][ 86]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:792][ 86]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:803][ 87]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:803][ 87]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:803][ 87]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:814][ 88]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:814][ 88]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:814][ 88]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:825][ 89]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:825][ 89]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:825][ 89]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:836][ 90]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:836][ 90]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:836][ 90]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:848][ 91]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:848][ 91]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:848][ 91]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:858][ 92]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:858][ 92]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:858][ 92]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:871][ 93]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:871][ 93]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:871][ 93]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:882][ 94]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:882][ 94]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:882][ 94]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:893][ 95]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:893][ 95]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:893][ 95]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:904][ 96]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:904][ 96]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:904][ 96]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:914][ 97]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:915][ 97]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:915][ 97]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:915][ 97]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:925][ 98]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:925][ 98]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:926][ 98]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:937][ 99]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:937][ 99]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:937][ 99]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:948][100]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:948][100]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:948][100]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:958][101]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:958][101]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:958][101]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:971][102]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:971][102]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:971][102]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:983][103]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:983][103]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:983][103]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:993][104]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:993][104]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.46:993][104]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:005][105]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:005][105]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:005][105]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:016][106]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:016][106]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:016][106]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:027][107]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:027][107]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:027][107]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:039][108]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:039][108]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:039][108]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:050][109]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:050][109]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:050][109]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:063][110]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:063][110]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:063][110]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:074][111]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:074][111]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:074][111]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:085][112]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:085][112]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:085][112]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:098][113]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:098][113]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:098][113]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:109][114]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:109][114]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:109][114]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:121][115]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:121][115]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:121][115]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:133][116]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:133][116]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:133][116]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:145][117]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:145][117]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:145][117]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:156][118]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:156][118]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:156][118]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:168][119]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:168][119]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:168][119]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:178][120]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:178][120]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:178][120]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:189][121]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:189][121]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:189][121]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:200][122]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:200][122]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:200][122]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:211][123]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:211][123]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:222][124]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:222][124]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:233][125]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:245][126]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:257][127]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:268][128]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:279][129]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:290][130]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:301][131]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:313][132]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:324][133]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:336][134]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:348][135]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:360][136]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:360][136]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:370][137]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.47:383][138]LogBlueprintUserMessages: [BP_Projectile_C_13] Hit
+[2025.12.12-10.47.48:006][193]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=-471.42 Y=16.11 Z=0.00 Location: X=-2149.82 Y=-266.72 Z=81.03 Normal: X=-0.00 Y=-0.89 Z=-0.45 PenetrationDepth:6.446 Actor:BP_Projectile_C_14 Component:Collider BoneName:None (49 other events since notify)
+[2025.12.12-10.47.48:006][193]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:006][193]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:006][193]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:006][193]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:018][194]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:018][194]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:018][194]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:028][195]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:038][196]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:050][197]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:062][198]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:062][198]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:062][198]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:062][198]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:073][199]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:073][199]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:073][199]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:085][200]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:085][200]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:097][201]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:109][202]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:119][203]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:131][204]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:142][205]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:153][206]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:163][207]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:174][208]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:184][209]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:195][210]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:206][211]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:217][212]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:228][213]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:238][214]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:251][215]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:262][216]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:273][217]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:288][218]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:300][219]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:310][220]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:322][221]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:333][222]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:345][223]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:357][224]LogBlueprintUserMessages: [BP_Projectile_C_14] Hit
+[2025.12.12-10.47.48:895][272]LogBlueprintUserMessages: [BP_Projectile_C_15] Hit
+[2025.12.12-10.47.48:895][272]LogBlueprintUserMessages: [BP_Projectile_C_15] Hit
+[2025.12.12-10.47.49:297][308]LogBlueprintUserMessages: [BP_Projectile_C_16] Hit
+[2025.12.12-10.47.49:545][330]LogBlueprintUserMessages: [BP_Projectile_C_17] Hit
+[2025.12.12-10.47.49:730][346]LogBlueprintUserMessages: [BP_Projectile_C_18] Hit
+[2025.12.12-10.47.49:988][369]LogBlueprintUserMessages: [BP_Projectile_C_19] Hit
+[2025.12.12-10.47.50:404][406]LogBlueprintUserMessages: [BP_Projectile_C_20] Hit
+[2025.12.12-10.47.50:640][427]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:640][427]LogBlueprintUserMessages: [BP_Projectile_C_20] Hit
+[2025.12.12-10.47.50:831][444]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:831][444]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:843][445]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:843][445]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:854][446]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:866][447]LogCharacterMovement: BP_PlayerCharacter_C_0 is stuck and failed to move! Velocity: X=0.00 Y=94.06 Z=0.00 Location: X=-2270.62 Y=-1265.90 Z=80.83 Normal: X=0.00 Y=-0.90 Z=-0.44 PenetrationDepth:5.473 Actor:BP_Projectile_C_21 Component:Collider BoneName:None (5 other events since notify)
+[2025.12.12-10.47.50:867][447]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:877][448]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:889][449]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:902][450]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:902][450]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:902][450]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:902][450]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:914][451]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:914][451]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:914][451]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:924][452]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:924][452]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:924][452]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:935][453]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:935][453]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:935][453]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:947][454]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:947][454]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:947][454]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:959][455]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:959][455]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:959][455]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:971][456]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:971][456]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:971][456]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:982][457]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:983][457]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:983][457]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:993][458]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:993][458]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.50:993][458]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:006][459]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:006][459]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:006][459]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:018][460]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:018][460]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:018][460]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:030][461]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:030][461]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:030][461]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:041][462]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:041][462]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:041][462]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:053][463]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:053][463]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:053][463]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:065][464]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:065][464]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:065][464]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:077][465]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:077][465]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:077][465]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:077][465]LogBlueprintUserMessages: [BP_Projectile_C_16] Hit
+[2025.12.12-10.47.51:088][466]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:088][466]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:088][466]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:098][467]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:098][467]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:098][467]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:110][468]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:110][468]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:110][468]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:122][469]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:123][469]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:123][469]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:133][470]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:133][470]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:133][470]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:146][471]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:146][471]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:146][471]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:158][472]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:158][472]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:158][472]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:170][473]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:170][473]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:170][473]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:180][474]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:180][474]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:180][474]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:192][475]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:192][475]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:192][475]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:204][476]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:204][476]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:204][476]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:215][477]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:215][477]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:215][477]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:226][478]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:226][478]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:226][478]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:237][479]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:237][479]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:237][479]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:250][480]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:250][480]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:250][480]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:263][481]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:263][481]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:263][481]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:273][482]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:273][482]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:273][482]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:285][483]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:285][483]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:285][483]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:296][484]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:296][484]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:296][484]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:308][485]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:308][485]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:308][485]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:320][486]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:320][486]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:320][486]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:331][487]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:331][487]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:331][487]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:342][488]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:342][488]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:342][488]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:355][489]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:355][489]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:355][489]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:365][490]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:365][490]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:365][490]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:377][491]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:377][491]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:378][491]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:390][492]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:390][492]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:390][492]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:390][492]LogBlueprintUserMessages: [BP_Projectile_C_17] Hit
+[2025.12.12-10.47.51:390][492]LogBlueprintUserMessages: [BP_Projectile_C_16] Hit
+[2025.12.12-10.47.51:402][493]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:402][493]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:402][493]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:413][494]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:413][494]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:413][494]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:424][495]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:424][495]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:424][495]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:436][496]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:436][496]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:436][496]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:446][497]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:446][497]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:446][497]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:458][498]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:458][498]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:458][498]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:471][499]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:471][499]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:471][499]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:482][500]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:482][500]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:482][500]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:493][501]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:494][501]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:494][501]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:504][502]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:505][502]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:505][502]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:516][503]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:516][503]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:516][503]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:527][504]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:528][504]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:528][504]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:539][505]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:539][505]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:539][505]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:552][506]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:552][506]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:552][506]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:564][507]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:564][507]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:564][507]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:576][508]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:576][508]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:576][508]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:587][509]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:587][509]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:587][509]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:600][510]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:600][510]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:600][510]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:611][511]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:611][511]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:611][511]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:611][511]LogBlueprintUserMessages: [BP_Projectile_C_18] Hit
+[2025.12.12-10.47.51:611][511]LogBlueprintUserMessages: [BP_Projectile_C_17] Hit
+[2025.12.12-10.47.51:622][512]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:623][512]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:623][512]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:634][513]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:634][513]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:634][513]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:645][514]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:645][514]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:645][514]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:657][515]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:657][515]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:657][515]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:668][516]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:668][516]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:668][516]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:678][517]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:678][517]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:678][517]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:691][518]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:691][518]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:691][518]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:701][519]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:701][519]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:701][519]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:711][520]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:711][520]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:711][520]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:722][521]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:723][521]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:723][521]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:733][522]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:733][522]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:745][523]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:756][524]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:767][525]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:778][526]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:791][527]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:791][527]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:791][527]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:803][528]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:803][528]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:814][529]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:814][529]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:824][530]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:824][530]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:836][531]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:836][531]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:847][532]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:847][532]LogBlueprintUserMessages: [BP_Projectile_C_21] Hit
+[2025.12.12-10.47.51:858][533]LogBlueprintUserMessages: [BP_Projectile_C_20] Hit
+[2025.12.12-10.47.51:871][534]LogBlueprintUserMessages: [BP_Projectile_C_20] Hit
+[2025.12.12-10.47.51:930][539]LogBlueprintUserMessages: [BP_Projectile_C_19] Hit
+[2025.12.12-10.47.51:930][539]LogBlueprintUserMessages: [BP_Projectile_C_18] Hit
+[2025.12.12-10.47.52:306][571]LogBlueprintUserMessages: [BP_Projectile_C_22] Hit
+[2025.12.12-10.47.52:555][591]LogBlueprintUserMessages: [BP_Projectile_C_23] Hit
+[2025.12.12-10.47.52:779][609]LogBlueprintUserMessages: [BP_Projectile_C_24] Hit
+[2025.12.12-10.47.52:974][625]LogBlueprintUserMessages: [BP_Projectile_C_22] Hit
+[2025.12.12-10.47.52:990][626]LogBlueprintUserMessages: [BP_Projectile_C_25] Hit
+[2025.12.12-10.47.53:003][627]LogBlueprintUserMessages: [BP_Projectile_C_23] Hit
+[2025.12.12-10.47.53:003][627]LogBlueprintUserMessages: [BP_Projectile_C_12] Hit
+[2025.12.12-10.47.53:200][643]LogBlueprintUserMessages: [BP_Projectile_C_26] Hit
+[2025.12.12-10.47.53:275][649]LogBlueprintUserMessages: [BP_Projectile_C_24] Hit
+[2025.12.12-10.47.53:275][649]LogBlueprintUserMessages: [BP_Projectile_C_23] Hit
+[2025.12.12-10.47.53:353][655]LogBlueprintUserMessages: [BP_Projectile_C_27] Hit
+[2025.12.12-10.47.53:533][669]LogBlueprintUserMessages: [BP_Projectile_C_25] Hit
+[2025.12.12-10.47.53:533][669]LogBlueprintUserMessages: [BP_Projectile_C_24] Hit
+[2025.12.12-10.47.53:546][670]LogBlueprintUserMessages: [BP_Projectile_C_28] Hit
+[2025.12.12-10.47.53:795][690]LogBlueprintUserMessages: [BP_Projectile_C_26] Hit
+[2025.12.12-10.47.53:795][690]LogBlueprintUserMessages: [BP_Projectile_C_25] Hit
+[2025.12.12-10.47.53:974][705]LogBlueprintUserMessages: [BP_Projectile_C_27] Hit
+[2025.12.12-10.47.53:974][705]LogBlueprintUserMessages: [BP_Projectile_C_26] Hit
+[2025.12.12-10.47.54:207][724]LogBlueprintUserMessages: [BP_Projectile_C_28] Hit
+[2025.12.12-10.47.54:207][724]LogBlueprintUserMessages: [BP_Projectile_C_27] Hit
+[2025.12.12-10.47.54:305][732]LogBlueprintUserMessages: [BP_Projectile_C_29] Hit
+[2025.12.12-10.47.54:305][732]LogBlueprintUserMessages: [BP_Projectile_C_29] Hit
+[2025.12.12-10.47.54:305][732]LogBlueprintUserMessages: [BP_Projectile_C_29] Hit
+[2025.12.12-10.47.54:317][733]LogBlueprintUserMessages: [BP_Projectile_C_29] Hit
+[2025.12.12-10.47.54:330][734]LogBlueprintUserMessages: [BP_Projectile_C_29] Hit
+[2025.12.12-10.47.54:542][751]LogBlueprintUserMessages: [BP_Projectile_C_30] Hit
+[2025.12.12-10.47.54:543][751]LogBlueprintUserMessages: [BP_Projectile_C_30] Hit
+[2025.12.12-10.47.54:543][751]LogBlueprintUserMessages: [BP_Projectile_C_30] Hit
+[2025.12.12-10.47.54:554][752]LogBlueprintUserMessages: [BP_Projectile_C_30] Hit
+[2025.12.12-10.47.54:567][753]LogBlueprintUserMessages: [BP_Projectile_C_30] Hit
+[2025.12.12-10.47.54:798][772]LogBlueprintUserMessages: [BP_Projectile_C_31] Hit
+[2025.12.12-10.47.54:798][772]LogBlueprintUserMessages: [BP_Projectile_C_31] Hit
+[2025.12.12-10.47.54:798][772]LogBlueprintUserMessages: [BP_Projectile_C_31] Hit
+[2025.12.12-10.47.54:810][773]LogBlueprintUserMessages: [BP_Projectile_C_31] Hit
+[2025.12.12-10.47.55:031][791]LogBlueprintUserMessages: [BP_Projectile_C_32] Hit
+[2025.12.12-10.47.55:031][791]LogBlueprintUserMessages: [BP_Projectile_C_32] Hit
+[2025.12.12-10.47.55:032][791]LogBlueprintUserMessages: [BP_Projectile_C_32] Hit
+[2025.12.12-10.47.55:043][792]LogBlueprintUserMessages: [BP_Projectile_C_32] Hit
+[2025.12.12-10.47.57:011][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.47.57:011][878]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-10.47.57:012][878]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-10.47.57:014][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.47.57:016][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-10.47.57:022][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.47.57:051][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.47.57:052][878]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.12.12-10.47.57:052][878]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=4
+[2025.12.12-10.47.57:054][878]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=2
+[2025.12.12-10.47.57:065][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.12.12-10.47.57:137][879]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.12.12-10.49.04:258][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-10.49.04:333][309]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/Projectiles/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-10.49.04:379][309]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile]
+[2025.12.12-10.49.04:379][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Projectiles/BP_Projectile]
+[2025.12.12-10.49.04:391][309]LogSavePackage: Moving output files for package: /Game/StudentWork/Projectiles/BP_Projectile
+[2025.12.12-10.49.04:391][309]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Projectile06706F0945C2C108344BAAB48A23AF37.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Projectiles/BP_Projectile.uasset'
+[2025.12.12-10.49.04:407][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.587 ms (total: 4.90 sec)
+[2025.12.12-10.49.04:464][309]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-10.49.04:464][309]LogContentValidation: Enabled validators:
+[2025.12.12-10.49.04:464][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-10.49.04:464][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-10.49.04:464][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-10.49.04:464][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-10.49.04:464][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-10.49.04:464][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-10.49.04:465][309]AssetCheck: /Game/StudentWork/Projectiles/BP_Projectile Validating asset
+[2025.12.12-10.49.09:647][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.12.12-10.49.09:728][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StartMap_Auto5
+[2025.12.12-10.49.09:730][648]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap_Auto51D52DB434CDC74058649A18D45F78403.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/Autosaves/Game/StartMap_Auto5.umap'
+[2025.12.12-10.49.09:732][648]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMap' took 0.117
+[2025.12.12-10.49.09:732][648]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.117
+[2025.12.12-10.49.09:732][648]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2025.12.12-10.49.09:785][648]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter]
+[2025.12.12-10.49.09:785][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2025.12.12-10.49.09:840][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_PlayerCharacter_Auto5
+[2025.12.12-10.49.09:840][648]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_PlayerCharacter_Auto5D2CEF50349A10D63D16C8385A06EE012.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/Autosaves/Game/Blueprints/BP_PlayerCharacter_Auto5.uasset'
+[2025.12.12-10.49.09:842][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_Starter_Weapon] ([2] browsable assets)...
+[2025.12.12-10.49.09:842][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Starter_Weapon]
+[2025.12.12-10.49.09:852][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Weapons/BP_Starter_Weapon_Auto5
+[2025.12.12-10.49.09:852][648]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Starter_Weapon_Auto51F897EDD49B507E95535D7AD1D4F5C76.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/Autosaves/Game/Blueprints/Weapons/BP_Starter_Weapon_Auto5.uasset'
+[2025.12.12-10.49.09:854][648]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/Projectiles/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-10.49.09:863][648]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/Projectiles/BP_Projectile.BP_Projectile]
+[2025.12.12-10.49.09:863][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Projectiles/BP_Projectile]
+[2025.12.12-10.49.09:873][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/Projectiles/BP_Projectile_Auto5
+[2025.12.12-10.49.09:873][648]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Projectile_Auto547C02B1D480706CC0AA9DB91FCCA0B28.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/Autosaves/Game/StudentWork/Projectiles/BP_Projectile_Auto5.uasset'
+[2025.12.12-10.49.09:875][648]LogFileHelpers: Auto-saving content packages took 0.143
+[2025.12.12-10.49.13:671][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-10.49.13:688][886]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2025.12.12-10.49.13:758][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.12-10.49.13:761][886]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (1 blueprints)
+[2025.12.12-10.49.13:761][886]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StartMap
+[2025.12.12-10.49.13:778][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016460s)
+[2025.12.12-10.49.13:778][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMap.StartMap to /Game/UEDPIE_0_StartMap.StartMap (0.016498s)
+[2025.12.12-10.49.13:805][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.12-10.49.13:806][886]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.12.12-10.49.13:808][886]LogPlayLevel: PIE: World Init took: (0.001745s)
+[2025.12.12-10.49.13:808][886]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2025.12.12-10.49.13:808][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-10.49.13:808][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-10.49.13:808][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-10.49.13:808][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-10.49.13:808][886]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-10.49.13:808][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-10.49.13:808][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-10.49.13:808][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-10.49.13:808][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-10.49.13:808][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-10.49.13:808][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-10.49.13:811][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-10.49.13:850][886]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.12.12-10.49.13:850][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-10.49.13:850][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-10.49.13:850][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-10.49.13:850][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2025.12.12-10.49.13:850][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2025.12.12-10.49.13:853][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2025.12.12-10.49.13:853][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2025.12.12-10.49.13:853][886]LogInit: FAudioDevice initialized with ID 33.
+[2025.12.12-10.49.13:853][886]LogAudio: Display: Audio Device (ID: 33) registered with world 'StartMap'.
+[2025.12.12-10.49.13:853][886]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2025.12.12-10.49.13:868][886]LogLoad: Game class is 'MechGameMode_C'
+[2025.12.12-10.49.13:878][886]LogWorld: Bringing World /Game/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.12.12-10.49.13
+[2025.12.12-10.49.13:878][886]LogWorld: Bringing up level for play took: 0.009650
+[2025.12.12-10.49.13:880][886]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.12.12-10.49.13:883][886]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2025.12.12-10.49.13:883][886]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.12.12-10.49.13:884][886]PIE: Server logged in
+[2025.12.12-10.49.13:887][886]PIE: Play in editor total start time 0.205 seconds.
+[2025.12.12-10.49.24:881][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.49.24:881][603]LogWorld: BeginTearingDown for /Game/UEDPIE_0_StartMap
+[2025.12.12-10.49.24:881][603]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-10.49.24:883][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.49.24:886][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-10.49.24:893][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-10.49.24:922][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-10.49.24:923][603]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2025.12.12-10.49.24:923][603]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=4
+[2025.12.12-10.49.24:925][603]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=2
+[2025.12.12-10.49.24:936][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.12.12-10.49.25:002][604]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.12.12-10.49.31:393][970]Cmd: DELETE
+[2025.12.12-10.49.31:393][970]Cmd: ACTOR DELETE
+[2025.12.12-10.49.31:401][970]LogEditorActor: Deleted Actor: BP_Projectile_C
+[2025.12.12-10.49.31:428][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.12.12-10.49.31:430][970]LogEditorActor: Deleted 1 Actors (0.037 secs)
