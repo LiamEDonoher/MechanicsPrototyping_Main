@@ -6411,3 +6411,149 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.12-11.49.40:658][275]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.12-11.49.40:658][275]AssetCheck: /Game/StudentWork/Blueprints/MetalDetector Validating asset
 [2025.12.12-11.49.40:683][275]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-11.50.32:815][823]LogSlate: Window 'MetalDetector' being destroyed
+[2025.12.12-11.50.32:823][823]LogSlate: Window 'MetalDetector' being destroyed
+[2025.12.12-11.50.32:832][823]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-11.50.32:832][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-11.50.32:914][823]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.12-11.50.32:914][823]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-11.50.32:914][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-11.50.32:975][823]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.12-11.50.32:975][823]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-11.50.32:975][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-11.50.33:060][823]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.12-11.50.33:060][823]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-11.50.33:060][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-11.50.33:119][823]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.12-11.50.33:119][823]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-11.50.33:119][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-11.50.33:202][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.12.12-11.50.35:102][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.12.12-11.50.36:522][971]LogSlate: Window 'Save Content' being destroyed
+[2025.12.12-11.50.36:544][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-11.50.36:609][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.12.12-11.50.36:673][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.12.12-11.50.36:750][971]LogSavePackage: Moving output files for package: /Game/StartMap
+[2025.12.12-11.50.36:751][971]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMapE70DA4BF48816C6E1AAA0188ADC548FE.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2025.12.12-11.50.36:768][971]LogFileHelpers: All files are already saved.
+[2025.12.12-11.50.36:768][971]LogFileHelpers: Saving map 'StartMap' took 0.159
+[2025.12.12-11.50.36:768][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerCharacter] ([2] browsable assets)...
+[2025.12.12-11.50.36:768][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerCharacter]
+[2025.12.12-11.50.36:819][971]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PlayerCharacter
+[2025.12.12-11.50.36:821][971]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_PlayerCharacter52A23D274E7C853C487054BB0104B999.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2025.12.12-11.50.36:824][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/Projectiles/BP_Projectile] ([2] browsable assets)...
+[2025.12.12-11.50.36:824][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Projectiles/BP_Projectile]
+[2025.12.12-11.50.36:835][971]LogSavePackage: Moving output files for package: /Game/StudentWork/Projectiles/BP_Projectile
+[2025.12.12-11.50.36:836][971]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_ProjectileF0EEA9814F1DA4E33D2A1BA8DA513B88.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Projectiles/BP_Projectile.uasset'
+[2025.12.12-11.50.36:838][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Weapons/BP_Starter_Weapon] ([2] browsable assets)...
+[2025.12.12-11.50.36:839][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Weapons/BP_Starter_Weapon]
+[2025.12.12-11.50.36:849][971]LogSavePackage: Moving output files for package: /Game/Blueprints/Weapons/BP_Starter_Weapon
+[2025.12.12-11.50.36:851][971]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Starter_WeaponA29EC2D7408B2078A42356AE0DECA3F9.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/Blueprints/Weapons/BP_Starter_Weapon.uasset'
+[2025.12.12-11.50.36:853][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/Blueprints/FacePlayer] ([2] browsable assets)...
+[2025.12.12-11.50.36:853][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Blueprints/FacePlayer]
+[2025.12.12-11.50.36:863][971]LogSavePackage: Moving output files for package: /Game/StudentWork/Blueprints/FacePlayer
+[2025.12.12-11.50.36:864][971]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/FacePlayer2A6319B14C5DAD405CCBB2AB15561389.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Blueprints/FacePlayer.uasset'
+[2025.12.12-11.50.36:867][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/Meshes/SM_M_MetalDetector] ([1] browsable assets)...
+[2025.12.12-11.50.36:868][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Meshes/SM_M_MetalDetector]
+[2025.12.12-11.50.36:876][971]LogSavePackage: Moving output files for package: /Game/StudentWork/Meshes/SM_M_MetalDetector
+[2025.12.12-11.50.36:876][971]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/SM_M_MetalDetector18E44795402ACD0C96763681926326A2.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Meshes/SM_M_MetalDetector.uasset'
+[2025.12.12-11.50.36:896][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 351.370 ms (total: 7.31 sec)
+[2025.12.12-11.50.36:977][971]LogStall: Shutdown...
+[2025.12.12-11.50.36:977][971]LogStall: Shutdown complete.
+[2025.12.12-11.50.37:035][971]LogSlate: Window 'Mechanics - Unreal Editor' being destroyed
+[2025.12.12-11.50.37:041][971]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.12.12-11.50.37:232][971]LogContentValidation: Display: Starting to validate 6 assets
+[2025.12.12-11.50.37:232][971]LogContentValidation: Enabled validators:
+[2025.12.12-11.50.37:232][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-11.50.37:232][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-11.50.37:232][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-11.50.37:232][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-11.50.37:232][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-11.50.37:232][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-11.50.37:232][971]AssetCheck: /Game/StartMap Validating asset
+[2025.12.12-11.50.37:232][971]AssetCheck: /Game/Blueprints/BP_PlayerCharacter Validating asset
+[2025.12.12-11.50.37:232][971]AssetCheck: /Game/StudentWork/Projectiles/BP_Projectile Validating asset
+[2025.12.12-11.50.37:232][971]AssetCheck: /Game/Blueprints/Weapons/BP_Starter_Weapon Validating asset
+[2025.12.12-11.50.37:233][971]AssetCheck: /Game/StudentWork/Blueprints/FacePlayer Validating asset
+[2025.12.12-11.50.37:233][971]AssetCheck: /Game/StudentWork/Meshes/SM_M_MetalDetector Validating asset
+[2025.12.12-11.50.37:236][971]Cmd: QUIT_EDITOR
+[2025.12.12-11.50.37:236][971]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.12-11.50.37:239][971]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-11.50.37:249][972]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.12-11.50.37:250][972]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.12-11.50.37:250][972]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.12-11.50.37:253][972]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-11.50.37:254][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-11.50.37:271][972]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.12-11.50.37:271][972]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.12-11.50.37:271][972]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.12-11.50.37:280][972]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-11.50.37:281][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-11.50.37:284][972]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-11.50.37:284][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-11.50.37:287][972]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-11.50.37:287][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-11.50.37:291][972]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-11.50.37:291][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-11.50.37:294][972]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-11.50.37:294][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-11.50.37:298][972]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.12.12-11.50.37:298][972]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.12-11.50.37:304][972]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.12.12-11.50.38:152][972]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.12-11.50.38:152][972]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.12-11.50.38:152][972]LogAudio: Display: Audio Device unregistered from world 'StartMap'.
+[2025.12.12-11.50.38:152][972]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.12-11.50.38:152][972]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.12.12-11.50.38:159][972]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.12.12-11.50.38:171][972]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.12-11.50.38:171][972]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.12-11.50.38:177][972]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.12-11.50.38:178][972]LogExit: Preparing to exit.
+[2025.12.12-11.50.38:242][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.12.12-11.50.38:267][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:267][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.38:268][972]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.12-11.50.39:028][972]LogEditorDataStorage: Deinitializing
+[2025.12.12-11.50.39:179][972]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.12-11.50.39:225][972]LogExit: Editor shut down
+[2025.12.12-11.50.39:232][972]LogExit: Transaction tracking system shut down
+[2025.12.12-11.50.39:460][972]LogExit: Object subsystem successfully closed.
+[2025.12.12-11.50.39:473][972]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.12-11.50.39:615][972]LogMemoryProfiler: Shutdown
+[2025.12.12-11.50.39:615][972]LogNetworkingProfiler: Shutdown
+[2025.12.12-11.50.39:615][972]LoadingProfiler: Shutdown
+[2025.12.12-11.50.39:615][972]LogTimingProfiler: Shutdown
+[2025.12.12-11.50.39:615][972]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.12.12-11.50.39:615][972]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.12.12-11.50.40:001][972]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.12-11.50.40:001][972]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.12-11.50.40:001][972]RenderDocPlugin: plugin has been unloaded.
+[2025.12.12-11.50.40:036][972]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.12-11.50.40:036][972]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE5ECF9FF-46FD-0785-BDA4-0199591F2AA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=1eafa908455f7ed9eb4a8f8d9295cf71%7C%7Cca974d4e-9079-4275-a7a3-c7af4b71f005&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.12-11.50.40:579][972]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.12-11.50.40:587][972]LogXGEController: Cleaning working directory: C:/Users/d016844p/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.12.12-11.50.40:591][972]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.12-11.50.40:591][972]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.12-11.50.40:591][972]LogPakFile: Destroying PakPlatformFile
+[2025.12.12-11.50.40:850][972]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.12-11.50.40:882][972]LogExit: Exiting.
+[2025.12.12-11.50.40:913][972]Log file closed, 12/12/25 11:50:40
