@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap",
+				"C:/Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Blueprints/MetalDetector.uasset",
 				"C:/Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap",
 				"C:/Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/Blueprints/BP_PlayerCharacter.uasset",
 				"C:/Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Blueprints/BP_Projectile.uasset",
@@ -14,7 +16,6 @@
 				"C:/Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Blueprints/FacePlayer.uasset",
 				"C:/Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Blueprints/MetalDetector.uasset",
 				"C:/Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Meshes/SM_M_MetalDetector.uasset",
-				"C:/Users/donoh/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap",
 				"C:/Users/d016844p/Documents/GitHub/Mechanics_Prototyping/Content/StartMap.umap",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/MechGameMode.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/IA_Move.uasset",
