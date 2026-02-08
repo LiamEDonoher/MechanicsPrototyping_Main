@@ -1570,3 +1570,119 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.08-14.41.41:984][759]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.08-14.41.41:984][759]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.08-14.41.41:984][759]AssetCheck: /Game/StudentWork/Blueprints/Weapons/BP_Target Validating asset
+[2026.02.08-14.45.28:839][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2865.646484
+[2026.02.08-14.45.29:841][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-14.45.29:841][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2866.313477, Update Interval: 350.170593
+[2026.02.08-14.51.55:566][985]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3252.369385
+[2026.02.08-14.51.56:568][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-14.51.56:568][987]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3253.038818, Update Interval: 326.124451
+[2026.02.08-14.58.06:372][228]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3623.189697
+[2026.02.08-14.58.06:526][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-14.58.06:526][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3623.332520, Update Interval: 336.594757
+[2026.02.08-14.59.16:520][282]LogDerivedDataCache: C:/Users/d016844p/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.08-15.03.07:222][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-15.03.07:281][303]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/Blueprints/Weapons/BP_Target] ([2] browsable assets)...
+[2026.02.08-15.03.07:281][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Blueprints/Weapons/BP_Target]
+[2026.02.08-15.03.07:299][303]LogSavePackage: Moving output files for package: /Game/StudentWork/Blueprints/Weapons/BP_Target
+[2026.02.08-15.03.07:301][303]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/BP_Target9E84B79D40AF7A575C0584A7221904A8.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StudentWork/Blueprints/Weapons/BP_Target.uasset'
+[2026.02.08-15.03.07:313][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.566 ms (total: 809.832 ms)
+[2026.02.08-15.03.07:379][303]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-15.03.07:379][303]LogContentValidation: Enabled validators:
+[2026.02.08-15.03.07:379][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-15.03.07:379][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-15.03.07:379][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-15.03.07:379][303]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-15.03.07:379][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-15.03.07:379][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-15.03.07:379][303]AssetCheck: /Game/StudentWork/Blueprints/Weapons/BP_Target Validating asset
+[2026.02.08-15.04.34:240][229]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4011.054199
+[2026.02.08-15.04.35:245][232]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-15.04.35:245][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4011.726074, Update Interval: 349.595642
+[2026.02.08-15.11.11:202][488]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4408.002441
+[2026.02.08-15.11.11:366][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-15.11.11:366][499]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4408.150391, Update Interval: 306.559052
+[2026.02.08-15.17.14:456][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4771.267578
+[2026.02.08-15.17.15:456][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-15.17.15:456][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4771.932129, Update Interval: 319.508667
+[2026.02.08-15.23.33:204][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5150.016602
+[2026.02.08-15.23.34:204][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-15.23.34:204][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5150.686523, Update Interval: 323.443695
+[2026.02.08-15.29.29:887][544]LogSlate: External Image Picker: DecompressImage failed
+[2026.02.08-15.29.43:275][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5520.093750
+[2026.02.08-15.29.43:514][378]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-15.29.43:514][378]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5520.318848, Update Interval: 349.584656
+[2026.02.08-15.29.45:948][545]LogStreaming: Display: FlushAsyncLoading(489): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: ================================================
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Total job queries 3,114, among them cache hits 1,057 (33.94%), DDC hits 1,918 (61.59%), Duplicates 109 (3.50%)
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Tracking 1,948 distinct input hashes that result in 1,207 distinct outputs (61.96%)
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: RAM used: 10.94 MiB of 1.60 GiB budget. Usage: 0.67%
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Shaders Compiled: 30
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Jobs assigned 30, completed 30 (100%)
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Average time worker was idle: 1247.59 s
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Time job spent in pending queue: average 0.38 s, longest 2.67 s
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Job execution time: average 2.78 s, max 9.12 s
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Job life time (pending + execution): average 3.16 s, max 9.20
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Shader code size: total 253.961 KiB, numShaders 32, average 7.936 KiB, min 2.777 KiB, max 15.719 KiB
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.81 s
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Average processing rate: 1.51 jobs/sec
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Total thread time: 30.483 s
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Total thread preprocess time: 63.949 s
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Percentage time preprocessing: 209.79%
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Effective parallelization: 1.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.192355
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.08-15.30.54:054][213]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 1.97 sec, max 2.01 sec, min 1.93 sec)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 1.25 sec, max 1.93 sec, min 0.39 sec)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    8 times, average 1.03 sec, max 1.64 sec, min 0.37 sec)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.90 sec, max 1.07 sec, min 0.73 sec)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display:                                                 FLumenCardPS - 27.03% of total time (compiled    8 times, average 1.03 sec, max 1.64 sec, min 0.37 sec)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 24.52% of total time (compiled    6 times, average 1.25 sec, max 1.93 sec, min 0.39 sec)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.83% of total time (compiled    6 times, average 0.70 sec, max 0.95 sec, min 0.54 sec)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 12.92% of total time (compiled    2 times, average 1.97 sec, max 2.01 sec, min 1.93 sec)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display:                                                  FVelocityPS - 5.91% of total time (compiled    2 times, average 0.90 sec, max 1.07 sec, min 0.73 sec)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display: === Material stats ===
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display: Materials Translated:    153
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display: Material Translation Only: 0.05 s (28%)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.08-15.30.54:055][213]LogShaderCompilers: Display: ================================================
+[2026.02.08-15.33.25:077][666]LogSlate: Window 'Project Settings' being destroyed
+[2026.02.08-15.33.25:090][666]LogSlate: Window 'Project Settings' being destroyed
+[2026.02.08-15.34.01:788][665]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-15.34.01:789][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-15.34.01:936][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.02.08-15.34.03:414][788]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.08-15.34.03:414][788]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-15.34.03:414][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-15.34.03:527][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.08-15.34.08:097][163]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.08-15.34.08:097][163]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-15.34.08:097][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-15.34.08:195][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.08-15.36.12:436][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5909.260742
+[2026.02.08-15.36.13:440][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-15.36.13:440][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5909.927246, Update Interval: 300.049438
+[2026.02.08-15.37.45:492][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-15.37.45:558][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMap" FILE="../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.08-15.37.45:647][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.08-15.37.45:772][745]LogSavePackage: Moving output files for package: /Game/StartMap
+[2026.02.08-15.37.45:773][745]LogSavePackage: Moving '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Saved/StartMap2FF097204C5D56408AFE65A4CDB2753D.tmp' to '../../../../../../Users/d016844p/Documents/GitHub/MechanicsPrototyping_Main/Content/StartMap.umap'
+[2026.02.08-15.37.45:801][745]LogFileHelpers: All files are already saved.
+[2026.02.08-15.37.45:801][745]LogFileHelpers: Saving map 'StartMap' took 0.243
+[2026.02.08-15.37.45:819][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 326.531 ms (total: 1.13 sec)
+[2026.02.08-15.37.45:888][745]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-15.37.45:888][745]LogContentValidation: Enabled validators:
+[2026.02.08-15.37.45:888][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-15.37.45:888][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-15.37.45:888][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-15.37.45:888][745]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-15.37.45:888][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-15.37.45:888][745]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-15.37.45:889][745]AssetCheck: /Game/StartMap Validating asset
